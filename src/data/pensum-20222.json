@@ -1,0 +1,3116 @@
+{
+ "id": "20222",
+ "nombre": "Pénsum 20222",
+ "planEstudios": "Ingeniería de Sistemas-20222",
+ "info": [
+  {
+   "etiqueta": "Créditos Obligatorios",
+   "valor": "128"
+  },
+  {
+   "etiqueta": "Créditos ruta de humanidades o núcleo de formación institucional",
+   "valor": "18"
+  },
+  {
+   "etiqueta": "Créditos complementarios",
+   "valor": "6"
+  },
+  {
+   "etiqueta": "Créditos línea de énfasis",
+   "valor": "12"
+  },
+  {
+   "etiqueta": "Líneas de énfasis",
+   "valor": "1"
+  }
+ ],
+ "notas": [
+  "La ubicación por semestre sigue el PDF del plan de estudios. Los créditos de NFI, complementarios y énfasis no están ubicados en un semestre específico."
+ ],
+ "enfasisOfertados": {
+  "periodo": "2027-1",
+  "lineas": [
+   "010222_049 Diseño Integrado de Sistemas Técnicos",
+   "010222_050 Gerencia de Proyectos",
+   "010222_055 Desarrollo de Software 2020-2",
+   "010222_056 Sistemas de Información 2020-2",
+   "010222_061 Ciencias de los Datos"
+  ]
+ },
+ "grupos": [
+  {
+   "id": "complementarias",
+   "nombre": "Complementarias",
+   "seccion": "complementarios"
+  },
+  {
+   "id": "ciclo-comun-cd",
+   "nombre": "Ciclo Común - CD",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-la-pregunta-por-la-vida-buena",
+   "nombre": "Ciclo electivo · La pregunta por la vida buena",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-arte-y-ciudadania",
+   "nombre": "Ciclo electivo · Arte y ciudadanía",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-critica-y-opinion-publica",
+   "nombre": "Ciclo electivo · Crítica y opinión pública",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-literatura-aplicada",
+   "nombre": "Ciclo electivo · Literatura aplicada",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-cultura-humanistica",
+   "nombre": "Ciclo electivo · Cultura humanística",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-escrituras-creativas",
+   "nombre": "Ciclo electivo · Escrituras creativas",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-desarrollo-sostenible",
+   "nombre": "Ciclo electivo · Desarrollo sostenible",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-estudios-politicos",
+   "nombre": "Ciclo electivo · Estudios políticos",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-musica",
+   "nombre": "Ciclo electivo · Música",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-estudios-de-ciencia",
+   "nombre": "Ciclo electivo · Estudios de ciencia",
+   "seccion": "nfi"
+  },
+  {
+   "id": "ciclo-electivo-pensar-lo-social",
+   "nombre": "Ciclo electivo · Pensar lo social",
+   "seccion": "nfi"
+  },
+  {
+   "id": "desarrollo-de-software-tr",
+   "nombre": "Desarrollo De Software - Tr",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "sistemas-de-informacion-2020-2",
+   "nombre": "Sistemas de Información 2020-2",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "infraestr-tecnol-informac-ti",
+   "nombre": "Infraestr Tecnol Informac (TI)",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "ciencias-de-los-datos",
+   "nombre": "Ciencias de los Datos",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "desarrollo-de-software",
+   "nombre": "Desarrollo de Software",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "dise-integrado-sistemas-tecnic",
+   "nombre": "Dise Integrado Sistemas Técnic",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "desarrollo-de-software-2020-2",
+   "nombre": "Desarrollo de Software 2020-2",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "ciencias-de-los-datos-20",
+   "nombre": "Ciencias de los Datos",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "gerencia-de-proyectos",
+   "nombre": "Gerencia de Proyectos",
+   "seccion": "enfasis"
+  },
+  {
+   "id": "sistemas-de-informacion-tr",
+   "nombre": "Sistemas De Información -Tr",
+   "seccion": "enfasis"
+  }
+ ],
+ "cursos": [
+  {
+   "id": "BU0009",
+   "codigo": "BU0009",
+   "nombre": "Inducción",
+   "creditos": 0,
+   "umes": 0,
+   "semestre": 1,
+   "area": "institucional",
+   "requisitos": [],
+   "grupos": [],
+   "secundario": true
+  },
+  {
+   "id": "BU0011",
+   "codigo": "BU0011",
+   "nombre": "Bienestar Universitario",
+   "creditos": 1,
+   "umes": 1,
+   "semestre": 1,
+   "area": "institucional",
+   "requisitos": [
+    [
+     {
+      "tipo": "co",
+      "codigo": "BU0600",
+      "nombre": "Taller de Salud"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "BU0600",
+   "codigo": "BU0600",
+   "nombre": "Taller de Salud",
+   "creditos": 0,
+   "umes": 0,
+   "semestre": 1,
+   "area": "institucional",
+   "requisitos": [],
+   "grupos": [],
+   "secundario": true
+  },
+  {
+   "id": "CM0230",
+   "codigo": "CM0230",
+   "nombre": "Cálculo I",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 1,
+   "area": "basicas",
+   "requisitos": [],
+   "grupos": []
+  },
+  {
+   "id": "CM0260",
+   "codigo": "CM0260",
+   "nombre": "Lógica",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 1,
+   "area": "basicas",
+   "requisitos": [],
+   "grupos": []
+  },
+  {
+   "id": "ST0242",
+   "codigo": "ST0242",
+   "nombre": "Fundamentos de Programación",
+   "creditos": 4,
+   "umes": 6,
+   "semestre": 1,
+   "area": "profesional",
+   "requisitos": [],
+   "grupos": []
+  },
+  {
+   "id": "ST0243",
+   "codigo": "ST0243",
+   "nombre": "Principios de Desarrollo de Software",
+   "creditos": 2,
+   "umes": 4,
+   "semestre": 1,
+   "area": "profesional",
+   "requisitos": [],
+   "grupos": []
+  },
+  {
+   "id": "ST0260",
+   "codigo": "ST0260",
+   "nombre": "Seminario Ingeniería de Sistemas",
+   "creditos": 1,
+   "umes": 2,
+   "semestre": 1,
+   "area": "profesional",
+   "requisitos": [],
+   "grupos": []
+  },
+  {
+   "id": "CM0231",
+   "codigo": "CM0231",
+   "nombre": "Cálculo II",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 2,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0230",
+      "nombre": "Cálculo I"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "CM0246",
+   "codigo": "CM0246",
+   "nombre": "Estructuras Discretas",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 2,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "co",
+      "codigo": "CM0260",
+      "nombre": "Lógica"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "DF0236",
+   "codigo": "DF0236",
+   "nombre": "Física I",
+   "creditos": 4,
+   "umes": 6,
+   "semestre": 2,
+   "area": "basicas",
+   "requisitos": [],
+   "grupos": []
+  },
+  {
+   "id": "ST0244",
+   "codigo": "ST0244",
+   "nombre": "Lenguajes de Programación",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 2,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0242",
+      "nombre": "Fundamentos de Programación"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0245",
+   "codigo": "ST0245",
+   "nombre": "Estructura Datos y Algoritmos 1",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 2,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0242",
+      "nombre": "Fundamentos de Programación"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "BU0009",
+      "nombre": "Inducción"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "CM0232",
+   "codigo": "CM0232",
+   "nombre": "Cálculo III",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 3,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0231",
+      "nombre": "Cálculo II"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "DF0239",
+   "codigo": "DF0239",
+   "nombre": "Física II",
+   "creditos": 4,
+   "umes": 6,
+   "semestre": 3,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "DF0236",
+      "nombre": "Física I"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0246",
+   "codigo": "ST0246",
+   "nombre": "Base de Datos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 3,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0244",
+      "nombre": "Lenguajes de Programación"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "ST0245",
+      "nombre": "Estructura Datos y Algoritmos 1"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0247",
+   "codigo": "ST0247",
+   "nombre": "Estructura Datos y Algoritmos 2",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 3,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0245",
+      "nombre": "Estructura Datos y Algoritmos 1"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0248",
+   "codigo": "ST0248",
+   "nombre": "Electrónica Digital",
+   "creditos": 2,
+   "umes": 4,
+   "semestre": 3,
+   "area": "profesional",
+   "requisitos": [],
+   "grupos": []
+  },
+  {
+   "id": "ST0270",
+   "codigo": "ST0270",
+   "nombre": "Lenguajes Formales y Compiladores",
+   "creditos": 4,
+   "umes": 5,
+   "semestre": 3,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0246",
+      "nombre": "Estructuras Discretas"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "CM0234",
+   "codigo": "CM0234",
+   "nombre": "Álgebra Lineal",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 4,
+   "area": "basicas",
+   "requisitos": [],
+   "grupos": []
+  },
+  {
+   "id": "OG0205",
+   "codigo": "OG0205",
+   "nombre": "Teoría de la Organización",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 4,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 35
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0249",
+   "codigo": "ST0249",
+   "nombre": "Teoría de la Conmutación",
+   "creditos": 2,
+   "umes": 4,
+   "semestre": 4,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0248",
+      "nombre": "Electrónica Digital"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0250",
+   "codigo": "ST0250",
+   "nombre": "Ingeniería de Software",
+   "creditos": 4,
+   "umes": 6,
+   "semestre": 4,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0246",
+      "nombre": "Base de Datos"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0251",
+   "codigo": "ST0251",
+   "nombre": "Proyecto Integrador 1",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 4,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "bilinguismo",
+      "valor": "Cumplimiento A1 Bilinguismo"
+     },
+     {
+      "tipo": "co",
+      "codigo": "ST0250",
+      "nombre": "Ingeniería de Software"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "EC0255",
+   "codigo": "EC0255",
+   "nombre": "Economía General",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 5,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0232",
+      "nombre": "Cálculo III"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0252",
+   "codigo": "ST0252",
+   "nombre": "Sistemas de Información",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 5,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "co",
+      "codigo": "ST0253",
+      "nombre": "Pensamiento Sistémico"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "ST0250",
+      "nombre": "Ingeniería de Software"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0253",
+   "codigo": "ST0253",
+   "nombre": "Pensamiento Sistémico",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 5,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "co",
+      "codigo": "OG0205",
+      "nombre": "Teoría de la Organización"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "CM0244",
+   "codigo": "CM0244",
+   "nombre": "Estadística General",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 6,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0231",
+      "nombre": "Cálculo II"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "OG0276",
+   "codigo": "OG0276",
+   "nombre": "Ingeniería Económica",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 6,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "EC0255",
+      "nombre": "Economía General"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0254",
+   "codigo": "ST0254",
+   "nombre": "Organización de Computadores",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 6,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0249",
+      "nombre": "Teoría de la Conmutación"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0255",
+   "codigo": "ST0255",
+   "nombre": "Telemática",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 6,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "co",
+      "codigo": "ST0254",
+      "nombre": "Organización de Computadores"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0250",
+      "nombre": "Ingeniería de Software"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0256",
+   "codigo": "ST0256",
+   "nombre": "Análisis Numérico",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 6,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0234",
+      "nombre": "Álgebra Lineal"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "CM0245",
+   "codigo": "CM0245",
+   "nombre": "Métodos Cuantitativos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 7,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0232",
+      "nombre": "Cálculo III"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0257",
+   "codigo": "ST0257",
+   "nombre": "Sistemas Operativos",
+   "creditos": 4,
+   "umes": 6,
+   "semestre": 7,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0254",
+      "nombre": "Organización de Computadores"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0258",
+   "codigo": "ST0258",
+   "nombre": "Proyecto Integrador 2",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 7,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "co",
+      "codigo": "ST0261",
+      "nombre": "Tópicos Especiales en Ingeniería de Software"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "ST0251",
+      "nombre": "Proyecto Integrador 1"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0261",
+   "codigo": "ST0261",
+   "nombre": "Tópicos Especiales en Ingeniería de Software",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 7,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0251",
+      "nombre": "Proyecto Integrador 1"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0262",
+   "codigo": "ST0262",
+   "nombre": "Tópicos Especiales en Sistemas de Información",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 7,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "co",
+      "codigo": "ST0258",
+      "nombre": "Proyecto Integrador 2"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "ST0252",
+      "nombre": "Sistemas de Información"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0263",
+   "codigo": "ST0263",
+   "nombre": "Tópicos Especiales en Telemática",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 7,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0255",
+      "nombre": "Telemática"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "TA4003",
+   "codigo": "TA4003",
+   "nombre": "Talento II - Escuela de Ciencias Aplicadas e Ingeniería",
+   "creditos": 0,
+   "umes": 0,
+   "semestre": 7,
+   "area": "institucional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 103
+     },
+     {
+      "tipo": "bilinguismo",
+      "valor": "Cumplimiento A2 Bilinguismo"
+     },
+     {
+      "tipo": "co",
+      "codigo": "ST0258",
+      "nombre": "Proyecto Integrador 2"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "DF0239",
+      "nombre": "Física II"
+     }
+    ]
+   ],
+   "grupos": [],
+   "secundario": true
+  },
+  {
+   "id": "PT0131",
+   "codigo": "PT0131",
+   "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)",
+   "creditos": 18,
+   "umes": 20,
+   "semestre": 8,
+   "area": "practica",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 122
+     },
+     {
+      "tipo": "pre",
+      "codigo": "TA4003",
+      "nombre": "Talento II - Escuela de Ciencias Aplicadas e Ingeniería"
+     },
+     {
+      "tipo": "co",
+      "codigo": "ST0258",
+      "nombre": "Proyecto Integrador 2"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "ST0277",
+   "codigo": "ST0277",
+   "nombre": "Gestión de Proyectos Informáticos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": 9,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0045",
+      "nombre": "Ingeniería de Software 3"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0250",
+      "nombre": "Ingeniería de Software"
+     }
+    ]
+   ],
+   "grupos": []
+  },
+  {
+   "id": "CM0439",
+   "codigo": "CM0439",
+   "nombre": "Heurística",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0245",
+      "nombre": "Métodos Cuantitativos"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "DE0162",
+   "codigo": "DE0162",
+   "nombre": "Cátedra de la Paz, la Memoria y la Reconciliación",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "EI7000",
+   "codigo": "EI7000",
+   "nombre": "Computación Cuántica I",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0234",
+      "nombre": "Álgebra Lineal"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0465",
+      "nombre": "Álgebra Lineal y Ecuaciones Diferenciales"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "GU0001",
+   "codigo": "GU0001",
+   "nombre": "Ética y Tecnología en la Era de la Inteligencia Artificial",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "OG0064",
+   "codigo": "OG0064",
+   "nombre": "Construcción Empresarial",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 100
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "OG0131",
+   "codigo": "OG0131",
+   "nombre": "Procesos de Gestión Humana",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "OG0260",
+   "codigo": "OG0260",
+   "nombre": "Preparación de Proyectos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "FI0116",
+      "nombre": "Matemáticas Financieras"
+     }
+    ],
+    [
+     {
+      "tipo": "co",
+      "codigo": "OG0276",
+      "nombre": "Ingeniería Económica"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "FI0141",
+      "nombre": "Matemáticas Financieras"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "FI0216",
+      "nombre": "Matemáticas Financieras"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias",
+    "gerencia-de-proyectos"
+   ]
+  },
+  {
+   "id": "OG0261",
+   "codigo": "OG0261",
+   "nombre": "Evaluación Financiera de Proyectos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [],
+   "grupos": [
+    "complementarias",
+    "gerencia-de-proyectos"
+   ]
+  },
+  {
+   "id": "OG0262",
+   "codigo": "OG0262",
+   "nombre": "Evaluación Ambiental de Proyectos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0191",
+      "nombre": "Período de Práctica (Negocios Internacionales Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0111",
+      "nombre": "Período de Práctica (Economía Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0251",
+      "nombre": "Período de Práctica (Ingeniería de Procesos Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0152",
+      "nombre": "Período de Práctica (Ingeniería de Producción Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0161",
+      "nombre": "Período de Práctica (Ingeniería Civil Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0171",
+      "nombre": "Período de Práctica (Ingeniería Mecánica Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0181",
+      "nombre": "Período de Práctica (Geología Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0302",
+      "nombre": "Período de Práctica (Ingeniería de Diseño de Producto Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0204",
+      "nombre": "Período de Práctica (Ciencias Políticas)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0306",
+      "nombre": "Período de Práctica (Ingeniería Física Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0310",
+      "nombre": "Período de Práctica (Finanzas)"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias",
+    "gerencia-de-proyectos"
+   ]
+  },
+  {
+   "id": "OG0263",
+   "codigo": "OG0263",
+   "nombre": "Análisis de Riesgos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0191",
+      "nombre": "Período de Práctica (Negocios Internacionales Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0251",
+      "nombre": "Período de Práctica (Ingeniería de Procesos Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0152",
+      "nombre": "Período de Práctica (Ingeniería de Producción Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0161",
+      "nombre": "Período de Práctica (Ingeniería Civil Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0171",
+      "nombre": "Período de Práctica (Ingeniería Mecánica Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0181",
+      "nombre": "Período de Práctica (Geología Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0302",
+      "nombre": "Período de Práctica (Ingeniería de Diseño de Producto Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0204",
+      "nombre": "Período de Práctica (Ciencias Políticas)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0306",
+      "nombre": "Período de Práctica (Ingeniería Física Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0310",
+      "nombre": "Período de Práctica (Finanzas)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias",
+    "gerencia-de-proyectos"
+   ]
+  },
+  {
+   "id": "OG0264",
+   "codigo": "OG0264",
+   "nombre": "Gestión de Proyectos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0191",
+      "nombre": "Período de Práctica (Negocios Internacionales Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0251",
+      "nombre": "Período de Práctica (Ingeniería de Procesos Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0152",
+      "nombre": "Período de Práctica (Ingeniería de Producción Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0161",
+      "nombre": "Período de Práctica (Ingeniería Civil Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0171",
+      "nombre": "Período de Práctica (Ingeniería Mecánica Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0181",
+      "nombre": "Período de Práctica (Geología Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0302",
+      "nombre": "Período de Práctica (Ingeniería de Diseño de Producto Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0204",
+      "nombre": "Período de Práctica (Ciencias Políticas)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0306",
+      "nombre": "Período de Práctica (Ingeniería Física Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0310",
+      "nombre": "Período de Práctica (Finanzas)"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias",
+    "gerencia-de-proyectos"
+   ]
+  },
+  {
+   "id": "OG0356",
+   "codigo": "OG0356",
+   "nombre": "Aprendizaje Experiencial a Través de Retos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "SI3006",
+   "codigo": "SI3006",
+   "nombre": "Ciberseguridad",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0255",
+      "nombre": "Telemática"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0217",
+   "codigo": "ST0217",
+   "nombre": "Proyecto de 2 Créditos",
+   "creditos": 2,
+   "umes": 2,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0237",
+   "codigo": "ST0237",
+   "nombre": "Proyecto Especial de 3 Créditos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0264",
+   "codigo": "ST0264",
+   "nombre": "Paradigmas de Programación",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0270",
+      "nombre": "Lenguajes Formales y Compiladores"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0273",
+   "codigo": "ST0273",
+   "nombre": "Ingeniería del Conocimiento",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0251",
+      "nombre": "Proyecto Integrador 1"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0275",
+   "codigo": "ST0275",
+   "nombre": "Computación Gráfica",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0234",
+      "nombre": "Álgebra Lineal"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "ST0245",
+      "nombre": "Estructura Datos y Algoritmos 1"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0276",
+   "codigo": "ST0276",
+   "nombre": "Control Computarizado",
+   "creditos": 3,
+   "umes": 6,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0249",
+      "nombre": "Teoría de la Conmutación"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0285",
+   "codigo": "ST0285",
+   "nombre": "Proyecto Especial de 1 Crédito",
+   "creditos": 1,
+   "umes": 1,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0293",
+   "codigo": "ST0293",
+   "nombre": "Introducción a Inteligencia Artificial",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "ST0247",
+      "nombre": "Estructura Datos y Algoritmos 2"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "ST0436",
+   "codigo": "ST0436",
+   "nombre": "Aprendizaje de Máquina Cuántico",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "EI7000",
+      "nombre": "Computación Cuántica I"
+     }
+    ]
+   ],
+   "grupos": [
+    "complementarias"
+   ]
+  },
+  {
+   "id": "FH1001",
+   "codigo": "FH1001",
+   "nombre": "Ciudadanía y Democracia",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-comun-cd"
+   ]
+  },
+  {
+   "id": "FH1006",
+   "codigo": "FH1006",
+   "nombre": "La pregunta por la vida buena",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-la-pregunta-por-la-vida-buena"
+   ]
+  },
+  {
+   "id": "FH1007",
+   "codigo": "FH1007",
+   "nombre": "Toma de decisiones",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-la-pregunta-por-la-vida-buena"
+   ]
+  },
+  {
+   "id": "FH1003",
+   "codigo": "FH1003",
+   "nombre": "Arte y Ciudadanía",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-arte-y-ciudadania"
+   ]
+  },
+  {
+   "id": "FH1004",
+   "codigo": "FH1004",
+   "nombre": "Arte, Historia y Memoria",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-arte-y-ciudadania"
+   ]
+  },
+  {
+   "id": "FH1005",
+   "codigo": "FH1005",
+   "nombre": "Arte, Política y Participación",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-arte-y-ciudadania"
+   ]
+  },
+  {
+   "id": "FH1011",
+   "codigo": "FH1011",
+   "nombre": "Retórica y democracia",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-critica-y-opinion-publica"
+   ]
+  },
+  {
+   "id": "FH1012",
+   "codigo": "FH1012",
+   "nombre": "Argumentación visual y multimodal",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-critica-y-opinion-publica"
+   ]
+  },
+  {
+   "id": "FH1013",
+   "codigo": "FH1013",
+   "nombre": "Crítica de la opinión pública",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-critica-y-opinion-publica"
+   ]
+  },
+  {
+   "id": "FH1020",
+   "codigo": "FH1020",
+   "nombre": "Identidades y literatura",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-literatura-aplicada"
+   ]
+  },
+  {
+   "id": "FH1021",
+   "codigo": "FH1021",
+   "nombre": "Territorios y literatura",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-literatura-aplicada"
+   ]
+  },
+  {
+   "id": "FH1022",
+   "codigo": "FH1022",
+   "nombre": "Emociones y Literatura",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-literatura-aplicada"
+   ]
+  },
+  {
+   "id": "FH1017",
+   "codigo": "FH1017",
+   "nombre": "Lenguaje, ficción y realidad",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-cultura-humanistica"
+   ]
+  },
+  {
+   "id": "FH1018",
+   "codigo": "FH1018",
+   "nombre": "Grandes textos de las Humanidades",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-cultura-humanistica"
+   ]
+  },
+  {
+   "id": "FH1019",
+   "codigo": "FH1019",
+   "nombre": "Debates Humanísticos Contemporáneos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-cultura-humanistica"
+   ]
+  },
+  {
+   "id": "FH1014",
+   "codigo": "FH1014",
+   "nombre": "Taller de escrituras líricas",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-escrituras-creativas"
+   ]
+  },
+  {
+   "id": "FH1015",
+   "codigo": "FH1015",
+   "nombre": "Taller de Narrativas Urbanas",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-escrituras-creativas"
+   ]
+  },
+  {
+   "id": "FH1016",
+   "codigo": "FH1016",
+   "nombre": "Taller de Dramaturgia Experimental",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-escrituras-creativas"
+   ]
+  },
+  {
+   "id": "FH1023",
+   "codigo": "FH1023",
+   "nombre": "Estilos de vida sostenible",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-desarrollo-sostenible"
+   ]
+  },
+  {
+   "id": "FH1024",
+   "codigo": "FH1024",
+   "nombre": "Diseño de soluciones imitando la naturaleza",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-desarrollo-sostenible"
+   ]
+  },
+  {
+   "id": "FH1025",
+   "codigo": "FH1025",
+   "nombre": "Acción por el clima",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-desarrollo-sostenible",
+    "ciclo-electivo-pensar-lo-social"
+   ]
+  },
+  {
+   "id": "FH1026",
+   "codigo": "FH1026",
+   "nombre": "Modelos de Democracia",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-estudios-politicos"
+   ]
+  },
+  {
+   "id": "FH1027",
+   "codigo": "FH1027",
+   "nombre": "Colombia: Territorio y Desarrollo",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-estudios-politicos"
+   ]
+  },
+  {
+   "id": "FH1028",
+   "codigo": "FH1028",
+   "nombre": "Coyunturas del Orden Global",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-estudios-politicos"
+   ]
+  },
+  {
+   "id": "FH1029",
+   "codigo": "FH1029",
+   "nombre": "Mundos de las Músicas Urbanas",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-musica"
+   ]
+  },
+  {
+   "id": "FH1030",
+   "codigo": "FH1030",
+   "nombre": "Música y Política",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-musica"
+   ]
+  },
+  {
+   "id": "FH1031",
+   "codigo": "FH1031",
+   "nombre": "Música, Lenguaje y Memoria",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-musica"
+   ]
+  },
+  {
+   "id": "FH1008",
+   "codigo": "FH1008",
+   "nombre": "Historia y Filosofía del Conocimiento Científico",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-estudios-de-ciencia"
+   ]
+  },
+  {
+   "id": "FH1009",
+   "codigo": "FH1009",
+   "nombre": "Políticas del Conocimiento Científico",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-estudios-de-ciencia"
+   ]
+  },
+  {
+   "id": "FH1010",
+   "codigo": "FH1010",
+   "nombre": "Ciencia y técnica en acción",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-estudios-de-ciencia"
+   ]
+  },
+  {
+   "id": "FH1032",
+   "codigo": "FH1032",
+   "nombre": "Imaginación y Creatividad",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-pensar-lo-social"
+   ]
+  },
+  {
+   "id": "FH1033",
+   "codigo": "FH1033",
+   "nombre": "Comunicación Crítica",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-pensar-lo-social"
+   ]
+  },
+  {
+   "id": "FH1034",
+   "codigo": "FH1034",
+   "nombre": "Economía, Política y Coyuntura Económica",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-pensar-lo-social"
+   ]
+  },
+  {
+   "id": "FH1035",
+   "codigo": "FH1035",
+   "nombre": "Retos de la Ciudadanía Digital",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-pensar-lo-social"
+   ]
+  },
+  {
+   "id": "FH1036",
+   "codigo": "FH1036",
+   "nombre": "Colombia: Estrategias de Guerra y Paz",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "nfi",
+   "requisitos": [],
+   "grupos": [
+    "ciclo-electivo-pensar-lo-social"
+   ]
+  },
+  {
+   "id": "ST0815",
+   "codigo": "ST0815",
+   "nombre": "Proyecto Especial de 1 Crédito",
+   "creditos": 1,
+   "umes": 1,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "ciencias-de-los-datos",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST0816",
+   "codigo": "ST0816",
+   "nombre": "Proyecto Especial de 2 Créditos (Énfasis)",
+   "creditos": 2,
+   "umes": 2,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "ciencias-de-los-datos",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1110",
+   "codigo": "ST1110",
+   "nombre": "Métricas de Software",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr"
+   ]
+  },
+  {
+   "id": "ST1165",
+   "codigo": "ST1165",
+   "nombre": "Ingeniería de Requisitos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "ST0251",
+      "nombre": "Proyecto Integrador 1"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr"
+   ]
+  },
+  {
+   "id": "ST1328",
+   "codigo": "ST1328",
+   "nombre": "Ingeniería del Proceso Software",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr"
+   ]
+  },
+  {
+   "id": "ST1331",
+   "codigo": "ST1331",
+   "nombre": "Desarrollo de Software Basado en Componentes",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr"
+   ]
+  },
+  {
+   "id": "ST1623",
+   "codigo": "ST1623",
+   "nombre": "Procesos Modernos de Desarrollo de Software - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "desarrollo-de-software-2020-2"
+   ]
+  },
+  {
+   "id": "ST1624",
+   "codigo": "ST1624",
+   "nombre": "Integración y Entrega Continua de Software -Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "desarrollo-de-software-2020-2"
+   ]
+  },
+  {
+   "id": "ST1625",
+   "codigo": "ST1625",
+   "nombre": "Arquitecturas Avanzadas de Software - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "desarrollo-de-software-2020-2"
+   ]
+  },
+  {
+   "id": "ST1626",
+   "codigo": "ST1626",
+   "nombre": "Desarrollo de Sistemas Seguros - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "desarrollo-de-software-2020-2"
+   ]
+  },
+  {
+   "id": "ST1631",
+   "codigo": "ST1631",
+   "nombre": "Aprendizaje de Máquina Aplicado - Electiva",
+   "creditos": 2,
+   "umes": 2,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ],
+    [
+     {
+      "tipo": "pre",
+      "codigo": "PT0306",
+      "nombre": "Período de Práctica (Ingeniería Física Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "sistemas-de-informacion-2020-2",
+    "infraestr-tecnol-informac-ti",
+    "ciencias-de-los-datos",
+    "desarrollo-de-software",
+    "desarrollo-de-software-2020-2",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1632",
+   "codigo": "ST1632",
+   "nombre": "Estrategias de Innovación en Ecosistemas Digitales - Electiva",
+   "creditos": 2,
+   "umes": 2,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "sistemas-de-informacion-2020-2",
+    "infraestr-tecnol-informac-ti",
+    "ciencias-de-los-datos",
+    "desarrollo-de-software",
+    "desarrollo-de-software-2020-2",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1633",
+   "codigo": "ST1633",
+   "nombre": "Diseño de la Experiencia de Usuario - Electiva",
+   "creditos": 2,
+   "umes": 2,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software-tr",
+    "sistemas-de-informacion-2020-2",
+    "infraestr-tecnol-informac-ti",
+    "ciencias-de-los-datos",
+    "desarrollo-de-software",
+    "desarrollo-de-software-2020-2",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1619",
+   "codigo": "ST1619",
+   "nombre": "Arquitectura Empresarial - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-2020-2",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1620",
+   "codigo": "ST1620",
+   "nombre": "Gestión Estratégica de Ti - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-2020-2",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1621",
+   "codigo": "ST1621",
+   "nombre": "Inteligencia Analítica Empresarial - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-2020-2",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1622",
+   "codigo": "ST1622",
+   "nombre": "Innovación de Procesos Empresariales - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-2020-2",
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1627",
+   "codigo": "ST1627",
+   "nombre": "Pensamiento Arquitectónico para Soluciones de Ti - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "infraestr-tecnol-informac-ti"
+   ]
+  },
+  {
+   "id": "ST1628",
+   "codigo": "ST1628",
+   "nombre": "Redes para Sistemas de Alto Desempeño - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "infraestr-tecnol-informac-ti"
+   ]
+  },
+  {
+   "id": "ST1629",
+   "codigo": "ST1629",
+   "nombre": "Computación en Nube - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "infraestr-tecnol-informac-ti"
+   ]
+  },
+  {
+   "id": "ST1630",
+   "codigo": "ST1630",
+   "nombre": "Sistemas Intensivos en Datos - Obligatoria",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "infraestr-tecnol-informac-ti"
+   ]
+  },
+  {
+   "id": "CM0936",
+   "codigo": "CM0936",
+   "nombre": "Álgebra en Ciencias de los Datos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "CM0232",
+      "nombre": "Cálculo III"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "CM0234",
+      "nombre": "Álgebra Lineal"
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos"
+   ]
+  },
+  {
+   "id": "EC1800",
+   "codigo": "EC1800",
+   "nombre": "Estadística en Analítica",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "CM0232",
+      "nombre": "Cálculo III"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "CM0234",
+      "nombre": "Álgebra Lineal"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "EC0255",
+      "nombre": "Economía General"
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos"
+   ]
+  },
+  {
+   "id": "ST1801",
+   "codigo": "ST1801",
+   "nombre": "Almacenamiento y Recuperación de la Información",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "CM0232",
+      "nombre": "Cálculo III"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "CM0234",
+      "nombre": "Álgebra Lineal"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "EC0255",
+      "nombre": "Economía General"
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos"
+   ]
+  },
+  {
+   "id": "ST1804",
+   "codigo": "ST1804",
+   "nombre": "Fundamentos de Ciencias de los Datos",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "pre",
+      "codigo": "CM0234",
+      "nombre": "Álgebra Lineal"
+     },
+     {
+      "tipo": "pre",
+      "codigo": "CM0244",
+      "nombre": "Estadística General"
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos"
+   ]
+  },
+  {
+   "id": "SI5002",
+   "codigo": "SI5002",
+   "nombre": "Procesos Modernos de Desarrollo de Software",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software"
+   ]
+  },
+  {
+   "id": "SI5003",
+   "codigo": "SI5003",
+   "nombre": "Arquitecturas Avanzadas de Software",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software"
+   ]
+  },
+  {
+   "id": "SI5004",
+   "codigo": "SI5004",
+   "nombre": "Desarrollo de Sistemas Seguros",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software"
+   ]
+  },
+  {
+   "id": "SI5005",
+   "codigo": "SI5005",
+   "nombre": "Integración y Entrega Continua de Software",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "PT0131",
+      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
+     }
+    ]
+   ],
+   "grupos": [
+    "desarrollo-de-software"
+   ]
+  },
+  {
+   "id": "ID0663",
+   "codigo": "ID0663",
+   "nombre": "Diseño Conceptual Mecatrónico",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "dise-integrado-sistemas-tecnic"
+   ]
+  },
+  {
+   "id": "ID0667",
+   "codigo": "ID0667",
+   "nombre": "Lenguajes Técnicos de Programación",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "dise-integrado-sistemas-tecnic"
+   ]
+  },
+  {
+   "id": "ID0673",
+   "codigo": "ID0673",
+   "nombre": "Actuadores y Sensores",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "dise-integrado-sistemas-tecnic"
+   ]
+  },
+  {
+   "id": "ID0685",
+   "codigo": "ID0685",
+   "nombre": "Equipos para Interfaces entre Procesos",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "otra",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "dise-integrado-sistemas-tecnic"
+   ]
+  },
+  {
+   "id": "NM6001",
+   "codigo": "NM6001",
+   "nombre": "Matemáticas Aplicada",
+   "creditos": 2,
+   "umes": 2,
+   "semestre": null,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos-20"
+   ]
+  },
+  {
+   "id": "NM6002",
+   "codigo": "NM6002",
+   "nombre": "Estadística Aplicada",
+   "creditos": 2,
+   "umes": 2,
+   "semestre": null,
+   "area": "basicas",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos-20"
+   ]
+  },
+  {
+   "id": "SI6001",
+   "codigo": "SI6001",
+   "nombre": "Fundamentos en Ciencias de Datos",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos-20"
+   ]
+  },
+  {
+   "id": "SI6002",
+   "codigo": "SI6002",
+   "nombre": "Aprendizaje Automático",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "co",
+      "codigo": "NM6001",
+      "nombre": "Matemáticas Aplicada"
+     },
+     {
+      "tipo": "co",
+      "codigo": "NM6002",
+      "nombre": "Estadística Aplicada"
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos-20"
+   ]
+  },
+  {
+   "id": "SI6003",
+   "codigo": "SI6003",
+   "nombre": "Almacenamiento y Procesamiento de Grandes Datos",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos-20"
+   ]
+  },
+  {
+   "id": "SI6004",
+   "codigo": "SI6004",
+   "nombre": "Visualización de Datos",
+   "creditos": 2,
+   "umes": 3,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "ciencias-de-los-datos-20"
+   ]
+  },
+  {
+   "id": "ST1178",
+   "codigo": "ST1178",
+   "nombre": "Estrategia",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1197",
+   "codigo": "ST1197",
+   "nombre": "Políticas y Estrategias de Tecnologías de Información",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1276",
+   "codigo": "ST1276",
+   "nombre": "Finanzas",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "OG0276",
+      "nombre": "Ingeniería Económica"
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1311",
+   "codigo": "ST1311",
+   "nombre": "Mercadeo",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     },
+     {
+      "tipo": "pre",
+      "codigo": "ST0252",
+      "nombre": "Sistemas de Información"
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "ST1354",
+   "codigo": "ST1354",
+   "nombre": "Apoyo de Ti a Procesos de Negocios",
+   "creditos": 3,
+   "umes": 4,
+   "semestre": null,
+   "area": "profesional",
+   "requisitos": [
+    [
+     {
+      "tipo": "creditos",
+      "valor": 116
+     }
+    ]
+   ],
+   "grupos": [
+    "sistemas-de-informacion-tr"
+   ]
+  },
+  {
+   "id": "linea-enfasis",
+   "codigo": "",
+   "nombre": "Línea de énfasis",
+   "creditos": 12,
+   "umes": 0,
+   "semestre": 9,
+   "area": "trayectoria",
+   "requisitos": [],
+   "grupos": [],
+   "opciones": [
+    "desarrollo-de-software-tr",
+    "sistemas-de-informacion-2020-2",
+    "infraestr-tecnol-informac-ti",
+    "ciencias-de-los-datos",
+    "desarrollo-de-software",
+    "dise-integrado-sistemas-tecnic",
+    "desarrollo-de-software-2020-2",
+    "ciencias-de-los-datos-20",
+    "gerencia-de-proyectos",
+    "sistemas-de-informacion-tr"
+   ],
+   "cupo": true,
+   "nota": "Énfasis ofrecidos en 2027-1 (código Epik): 010222_049 Diseño Integrado de Sistemas Técnicos; 010222_050 Gerencia de Proyectos; 010222_055 Desarrollo de Software 2020-2; 010222_056 Sistemas de Información 2020-2; 010222_061 Ciencias de los Datos"
+  }
+ ]
+}

@@ -1,0 +1,840 @@
+[
+ {
+  "id": "deeeaae3-0f7e-563b-8c77-665de6e88564",
+  "titulo": "Reajuste: adición de asignaturas (2026-1)",
+  "inicio": "2026-01-15",
+  "categoria": "academico",
+  "fin": "2026-01-23",
+  "hora": "En las tardes",
+  "descripcion": "Adición de asignaturas: El proceso se realiza en las tardes Si desea adicionar materias después a estas fechas, deberá realizar la solicitud ante la jefatura de su programa académico\nDirigido a: Estudiantes activos con matrícula pagada.\nVer página Reajuste"
+ },
+ {
+  "id": "04aa2886-a164-5b5d-a127-4fed3ff99d1d",
+  "titulo": "Retiro de asignaturas con devolución del 90% (2026-1)",
+  "inicio": "2026-01-15",
+  "categoria": "academico",
+  "fin": "2026-01-23",
+  "hora": "En las mañanas",
+  "descripcion": "Con devolución del 90%: El proceso se realiza en las mañanas\nDirigido a: Estudiantes activos con matrícula pagada\nVer página Reajuste"
+ },
+ {
+  "id": "e2fb07c3-91d9-5f96-915c-0e1d7f2ff7b7",
+  "titulo": "Clases (2026-1)",
+  "inicio": "2026-01-19",
+  "categoria": "academico",
+  "fin": "2026-05-16",
+  "descripcion": "Dirigido a: Toda la comunidad universitaria. Para el semestre"
+ },
+ {
+  "id": "d6931053-c55d-59c2-aab9-bf9d76286b14",
+  "titulo": "Reajuste: fecha generación de liquidaciones (2026-1)",
+  "inicio": "2026-01-26",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes que adicionaron asignaturas"
+ },
+ {
+  "id": "7d31ff8f-c69c-5875-89e4-4098b612ccf0",
+  "titulo": "Retiro de asignaturas con devolución del 75% (2026-1)",
+  "inicio": "2026-01-27",
+  "categoria": "academico",
+  "fin": "2026-01-30",
+  "descripcion": "Dirigido a: Estudiantes activos con matrícula pagada\nVer página Reajuste"
+ },
+ {
+  "id": "f2bd7c52-a813-597e-9e7f-35d2b8e75a0b",
+  "titulo": "Reajuste: fecha máxima de pago de adiciones (2026-1)",
+  "inicio": "2026-01-30",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Estudiantes que adicionaron asignaturas"
+ },
+ {
+  "id": "77e16398-8123-5137-8b36-f23853b6271d",
+  "titulo": "Solicitud de asesoría de grado (2026-1)",
+  "inicio": "2026-02-02",
+  "categoria": "academico",
+  "fin": "2026-02-27",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "1e675273-7d4d-5f9b-abde-9ddd3972e943",
+  "titulo": "Cancelación de asignaturas y semestre, sin derecho a devolución (2026-1)",
+  "inicio": "2026-02-03",
+  "categoria": "academico",
+  "fin": "2026-05-15",
+  "descripcion": "Dirigido a: Estudiantes activos",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "def5af1c-5a64-5609-b697-2ff8c0b06067",
+  "titulo": "Prueba de refuerzo de competencias Saber Pro (2026-1)",
+  "inicio": "2026-02-13",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes que no obtuvieron el resultado requerido para el grado en las pruebas Saber Pro de 2025-1 o anteriores o en la prueba de refuerzo de competencias",
+  "enlace": "http://www.eafit.edu.co/saberpro"
+ },
+ {
+  "id": "b6a4a8f3-a165-5521-b090-4099516b8363",
+  "titulo": "Prueba de escritura 1 y 2 (Ciclo 1) (2026-1)",
+  "inicio": "2026-02-14",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "d5b84e2f-307c-5266-8d00-c104b5c1ffe6",
+  "titulo": "Prueba de lectura 1 y 2 (Ciclo 1) (2026-1)",
+  "inicio": "2026-02-21",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "5bf74adb-ac56-5945-81c0-5fe6e21f2517",
+  "titulo": "Diligenciar el formulario de inscripción (2026-2)",
+  "inicio": "2026-02-24",
+  "categoria": "academico",
+  "fin": "2026-07-06",
+  "descripcion": "Dirigido a: Personas que desean ingresar o regresar a la Universidad a través de uno de estos procesos: • Bachilleres • Transferencias externas • Reingresos • Reintegros\nFormulario de inscripción EAFIT"
+ },
+ {
+  "id": "b704259e-21cf-52a5-a62f-e0ca1b8476e2",
+  "titulo": "Diligenciar el formulario de inscripción (2026-2)",
+  "inicio": "2026-02-24",
+  "categoria": "academico",
+  "fin": "2026-05-15",
+  "descripcion": "Dirigido a: Personas que desean ingresar a la Universidad a través de uno de estos procesos: •Doble programa •Transferencia interna\nFormulario de inscripción EAFIT"
+ },
+ {
+  "id": "0f0a2e79-1f8c-5832-9a6c-d979c6088118",
+  "titulo": "Grados junio: solicitudes de grado (2026-1)",
+  "inicio": "2026-03-02",
+  "categoria": "academico",
+  "fin": "2026-05-22",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "a1c7fb27-45b5-556e-abab-4e251540b164",
+  "titulo": "Grados junio: paz y salvo de bilingüismo, documentos para grado y biblioteca (2026-1)",
+  "inicio": "2026-03-02",
+  "categoria": "academico",
+  "fin": "2026-05-29",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "90406ead-eca4-56c1-8605-1abc9caa7f42",
+  "titulo": "Grados junio: paz y salvo académico y financiero para grado (2026-1)",
+  "inicio": "2026-03-02",
+  "categoria": "academico",
+  "fin": "2026-06-02",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "52a0fcb6-513d-53d6-a156-183b4be9c9a0",
+  "titulo": "Grados junio: pago de derechos de grado (2026-1)",
+  "inicio": "2026-03-02",
+  "categoria": "academico",
+  "fin": "2026-06-05",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "75c4bb57-f961-5ad6-ac51-9d3fc9baeadd",
+  "titulo": "Prueba de escritura 1 y 2 (Ciclo 2) (2026-1)",
+  "inicio": "2026-03-13",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "51e4ce9e-55e9-5efc-aef8-9b51fa7b1843",
+  "titulo": "Pago de matrícula estudiantes nuevos y transferencias externas (2026-2)",
+  "inicio": "2026-03-18",
+  "categoria": "plazo",
+  "fin": "2026-05-27",
+  "descripcion": "Dirigido a: Estudiantes nuevos (primera vez, transferencias externas y cupos reservados)\nReglamento Económico Académico"
+ },
+ {
+  "id": "902beac3-b530-57be-87c8-3bec0c548784",
+  "titulo": "Asamblea general de carreras (2026-1)",
+  "inicio": "2026-03-18",
+  "categoria": "evento",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "6dabe3ea-497f-5701-be2a-2d50a752e866",
+  "titulo": "Asamblea general de profesores (2026-1)",
+  "inicio": "2026-03-18",
+  "categoria": "evento",
+  "descripcion": "Dirigido a: Profesores"
+ },
+ {
+  "id": "97960f09-533e-5f33-b204-70b4d43e2f94",
+  "titulo": "Exámenes de validación o suficiencia (2026-1)",
+  "inicio": "2026-03-19",
+  "categoria": "academico",
+  "fin": "2026-03-20",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "6de958fb-4e3c-5544-8e20-43b15f631e21",
+  "titulo": "Prueba de lectura 1 y 2 (Ciclo 2) (2026-1)",
+  "inicio": "2026-03-21",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "7ba369d9-fcba-58f6-9151-e2541e26dc01",
+  "titulo": "Receso de Semana Santa (2026-1)",
+  "inicio": "2026-03-30",
+  "categoria": "academico",
+  "fin": "2026-04-05",
+  "descripcion": "Dirigido a: Toda la comunidad universitaria. Para el semestre"
+ },
+ {
+  "id": "474f0798-246d-5a52-98f8-42ec47739b22",
+  "titulo": "Fecha límite para solicitar la suspensión de semestre (2026-1)",
+  "inicio": "2026-04-10",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "86a6ce80-b4d0-5449-af2a-e20fb3300f51",
+  "titulo": "Resultados de admisión (2026-2)",
+  "inicio": "2026-04-24",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Personas que desean regresar a la Universidad a través de uno de estos procesos: • Reingreso • Reingreso Transitorio • Reintegros • Reingreso con Transferencia Interna • Reintegro con Grado Previo •Reintegro con Transferencia Interna\nUna vez cumplas los requisitos de admisión, consulta tu estado ingresando al Autoservicio EPIK > Módulo Inscripción Pregrado Posgrado > campo Estado"
+ },
+ {
+  "id": "8930cd68-3ae7-56c1-9df0-7767c73838ff",
+  "titulo": "Solicitudes para levantamiento de requisitos (2026-2)",
+  "inicio": "2026-04-27",
+  "categoria": "academico",
+  "fin": "2026-07-24",
+  "descripcion": "Solicitudes para levantamiento de requisitos. (Aplica para cursar materias o práctica con levantamiento de los prerrequisitos, excepto controles de idioma)\nDirigido a: Estudiantes activos y jefes de programa",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "d11a4312-8f68-5680-b318-60a8d58ff240",
+  "titulo": "Solicitud para cursar asignaturas con posgrado (2026-2)",
+  "inicio": "2026-04-28",
+  "categoria": "academico",
+  "fin": "2026-05-13",
+  "descripcion": "Dirigido a: Estudiantes activos",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "caf28bcc-1da5-5e76-b62c-a3db82c09225",
+  "titulo": "Intersemestrales: publicación de los cursos que se van a ofrecer (2026-1)",
+  "inicio": "2026-04-28",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "ce5adf2c-721e-528c-a1eb-1ad7650acc9b",
+  "titulo": "Registro de materias (2026-2)",
+  "inicio": "2026-05-11",
+  "categoria": "academico",
+  "fin": "2026-05-22",
+  "descripcion": "Dirigido a: Estudiantes activos y jefes de programa",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "3884de81-133c-56cd-8a5a-15ee69696d1c",
+  "titulo": "Fecha límite para reportar notas parciales (70%) en EAFIT Interactiva (2026-1)",
+  "inicio": "2026-05-13",
+  "categoria": "plazo",
+  "descripcion": "Las notas parciales se reportan 15 días calendario después de realizada la evaluación; esta es la fecha límite.\nDirigido a: Profesores"
+ },
+ {
+  "id": "f9a4812a-3e3a-532f-b349-09aeb6d6cb22",
+  "titulo": "Intersemestrales: consulta de la programación académica (2026-1)",
+  "inicio": "2026-05-15",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "51f0c39c-28e2-544d-81e8-6546f5d3411f",
+  "titulo": "Fecha límite para la aprobación de cancelaciones (2026-1)",
+  "inicio": "2026-05-19",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Profesores",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "96528ff9-741a-5e9e-b459-5ac2a65a1adf",
+  "titulo": "Evaluaciones finales (2026-1)",
+  "inicio": "2026-05-19",
+  "categoria": "academico",
+  "fin": "2026-05-30",
+  "descripcion": "Dirigido a: Estudiantes que cursan asignaturas con evaluación final programada por el profesor (Registo Académico, no programará los exámenes finales)"
+ },
+ {
+  "id": "bf9bb986-3e72-552b-8622-eef6b367cc2e",
+  "titulo": "Intersemestrales: inscripciones y pago de matrícula (2026-1)",
+  "inicio": "2026-05-19",
+  "categoria": "academico",
+  "fin": "2026-05-29",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "0dce3d2a-f26f-5a2a-abb1-7553725a1e09",
+  "titulo": "Supletorios exámenes finales (2026-1)",
+  "inicio": "2026-06-01",
+  "categoria": "academico",
+  "hora": "8:00 a. m. a 10:00 a. m.",
+  "descripcion": "Dirigido a: Estudiantes activos, que por causa de fuerza mayor o caso fortuito, debidamente comprobada, no presentaron las evaluaciones finales en las fechas programadas"
+ },
+ {
+  "id": "1cffd8ff-ff70-5f0c-9a81-4f0cb2ec7441",
+  "titulo": "Fecha límite para reportar notas del 100% en EAFIT Interactiva (2026-1)",
+  "inicio": "2026-06-02",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Profesores"
+ },
+ {
+  "id": "3a938b9a-f8a6-5927-a801-3cebc5901f44",
+  "titulo": "Balance académico (2026-1)",
+  "inicio": "2026-06-03",
+  "categoria": "academico",
+  "fin": "2026-06-05",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "458c4c40-69d5-53ac-a160-adc83f04afb5",
+  "titulo": "Prueba de refuerzo de competencias Saber Pro (2026-1)",
+  "inicio": "2026-06-05",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes que no obtuvieron el resultado requerido para el grado en las pruebas Saber Pro de 2025-2 o anteriores o en la prueba de refuerzo de competencias",
+  "enlace": "http://www.eafit.edu.co/saberpro"
+ },
+ {
+  "id": "2e04005e-cf48-5ec9-8221-b4c75bbfeac9",
+  "titulo": "Resultados de admisión (2026-2)",
+  "inicio": "2026-06-11",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Personas que desean ingresar a la Universidad a través de uno de estos procesos: •Doble programa •Transferencia interna\nUna vez cumplas los requisitos de admisión, consulta tu estado ingresando al Autoservicio EPIK > Módulo Inscripción Pregrado Posgrado > campo Estado"
+ },
+ {
+  "id": "58592629-2ab0-57f1-b881-3dbe3d8daa86",
+  "titulo": "Consulta la página para la inscripción de clases (2026-2)",
+  "inicio": "2026-06-12",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes: activos o admitidos para el semestre en curso (• reingresos, • reintegros, • transferencias, • convenios, • doble programa y • asistentes)",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "0980f1bf-034a-579d-8168-a25b4c6fd0d6",
+  "titulo": "Consulta de la programación académica (2026-2)",
+  "inicio": "2026-06-12",
+  "categoria": "academico",
+  "descripcion": "Consulta de la programación académica, a través del Autoservicio Nota: los profesores los asigna la Escuela\nDirigido a: Estudiantes: activos o admitidos para el semestre en curso (• reingresos, • reintegros, • transferencias, • doble programa)",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "4cd35846-fedb-5b3f-b112-44eb97f4b9f4",
+  "titulo": "Consulta de la cita para inscripción de clases (2026-2)",
+  "inicio": "2026-06-12",
+  "categoria": "academico",
+  "hora": "En la tarde",
+  "descripcion": "Consulta la cita para la inscripción de clases, a través del Autoservicio, de acuerdo con el PCA del semestre anterior. Reglamento académico de pregrado, Artículo 45 – Inscripción de clases\nDirigido a: Estudiantes activos",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "01c82707-4aa4-5926-804a-d9a311c0ca0b",
+  "titulo": "Inscripción de clases (2026-2)",
+  "inicio": "2026-06-16",
+  "categoria": "academico",
+  "fin": "2026-06-23",
+  "hora": "Desde las 8:00 a. m.",
+  "descripcion": "Inscripción de clases, a partir de las 8:00 a.m\nDirigido a: Estudiantes: activos y estudiantes admitidos en calidad de • transferencia interna y • doble programa",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "631c6b09-bdbd-5d90-aa32-7d11efd3a0ef",
+  "titulo": "Intersemestrales: clases (2026-1)",
+  "inicio": "2026-06-16",
+  "categoria": "academico",
+  "fin": "2026-07-03",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "207d4df1-402c-53b6-b881-511111fb0ffd",
+  "titulo": "Grados junio: ensayo ceremonia de grado (2026-1)",
+  "inicio": "2026-06-16",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "8db22b29-fceb-570d-bc07-3bdde4c8279c",
+  "titulo": "Grados junio: acto de graduación (2026-1)",
+  "inicio": "2026-06-18",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "cc350715-b520-5f8f-9503-e2325cfd27a9",
+  "titulo": "Descanso remunerado (2026-1)",
+  "inicio": "2026-06-22",
+  "categoria": "otro",
+  "fin": "2026-07-03",
+  "descripcion": "Dirigido a: Profesores"
+ },
+ {
+  "id": "66fcf169-55a9-5ab3-93f0-39ad7fbfe53c",
+  "titulo": "Inscripción de clases (2026-2)",
+  "inicio": "2026-06-24",
+  "categoria": "academico",
+  "fin": "2026-07-06",
+  "descripcion": "Dirigido a: Estudiantes activos que no hicieron registro de asignaturas",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "73b4e42f-b8fb-5e14-a0a7-3c781dde5904",
+  "titulo": "Inscripción de clases (2026-2)",
+  "inicio": "2026-06-25",
+  "categoria": "academico",
+  "hora": "Desde las 2:00 p. m.",
+  "descripcion": "Dirigido a: Estudiantes que retoman sus estudios: • Reintegro",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "fddd6ff2-0471-553a-b69c-cc3b08e6312f",
+  "titulo": "Inscripción de clases con el jefe del programa (2026-2)",
+  "inicio": "2026-06-25",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes que regresan con matrícula condicional (• reingresos)",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "aab9e926-5deb-5c6a-8fe4-9cac532b2ea8",
+  "titulo": "Intersemestrales: evaluación final (2026-1)",
+  "inicio": "2026-07-04",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos y Profesores"
+ },
+ {
+  "id": "dbfac36f-25b7-5843-8e37-94d5790c0543",
+  "titulo": "Fecha límite de pago sin recargo (2026-2)",
+  "inicio": "2026-07-06",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Estudiantes antiguos con liquidación de matrícula generada"
+ },
+ {
+  "id": "f16aafa0-e6a6-576e-a200-b527df8faa40",
+  "titulo": "Intersemestrales: reporte de notas en EAFIT Interactiva (2026-1)",
+  "inicio": "2026-07-08",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Profesores"
+ },
+ {
+  "id": "3e2f86dc-38c4-52a0-b8aa-c74b13b8cf5f",
+  "titulo": "Reajuste: adición de asignaturas (2026-2)",
+  "inicio": "2026-07-09",
+  "categoria": "academico",
+  "fin": "2026-07-17",
+  "hora": "En las tardes",
+  "descripcion": "Adición de asignaturas: El proceso se realiza en las tardes Si desea adicionar materias después a estas fechas, deberá realizar la solicitud ante la jefatura de su programa académico\nDirigido a: Estudiantes activos con matrícula pagada.\nVer página Reajuste"
+ },
+ {
+  "id": "d58e48b7-b9eb-562b-acfd-d596104f4660",
+  "titulo": "Retiro de asignaturas con devolución del 90% (2026-2)",
+  "inicio": "2026-07-09",
+  "categoria": "academico",
+  "fin": "2026-07-17",
+  "hora": "En las mañanas",
+  "descripcion": "Con devolución del 90%: El proceso se realiza en las mañanas\nDirigido a: Estudiantes activos con matrícula pagada\nVer página Reajuste"
+ },
+ {
+  "id": "7c17833b-5e29-5004-831a-ddce10982d06",
+  "titulo": "Intersemestrales: balance académico (2026-1)",
+  "inicio": "2026-07-09",
+  "categoria": "academico",
+  "hora": "En la mañana",
+  "descripcion": "Dirigido a: Registro Académico"
+ },
+ {
+  "id": "ef41327c-5962-5304-8e7a-95ab01931c80",
+  "titulo": "Clases (2026-2)",
+  "inicio": "2026-07-13",
+  "categoria": "academico",
+  "fin": "2026-11-07",
+  "descripcion": "Dirigido a: Toda la comunidad universitaria. Para el semestre"
+ },
+ {
+  "id": "589957dd-2db8-57fb-8551-5991b535d703",
+  "titulo": "Fecha límite de pago con recargo (2026-2)",
+  "inicio": "2026-07-17",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Estudiantes antiguos con liquidación de matrícula generada"
+ },
+ {
+  "id": "330886e0-a7d2-55fc-bbc9-e27edb17e6f7",
+  "titulo": "Reajuste: fecha generación de liquidaciones (2026-2)",
+  "inicio": "2026-07-21",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes que adicionaron asignaturas"
+ },
+ {
+  "id": "1c6f49d0-700c-5843-be84-8022dbe82557",
+  "titulo": "Retiro de asignaturas con devolución del 75% (2026-2)",
+  "inicio": "2026-07-22",
+  "categoria": "academico",
+  "fin": "2026-07-24",
+  "descripcion": "Dirigido a: Estudiantes activos con matrícula pagada\nVer página Reajuste"
+ },
+ {
+  "id": "ed67bc63-cbaa-5718-8564-152fe3ec2b1b",
+  "titulo": "Reajuste: fecha máxima de pago de adiciones (2026-2)",
+  "inicio": "2026-07-24",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Estudiantes que adicionaron asignaturas"
+ },
+ {
+  "id": "8146f2f9-7710-53b6-a017-b305c0998e9c",
+  "titulo": "Solicitud de asesoría de grado (2026-2)",
+  "inicio": "2026-08-03",
+  "categoria": "academico",
+  "fin": "2026-08-28",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "a7e155f9-4486-5aa0-8d12-5bfe61eea76c",
+  "titulo": "Cancelación de asignaturas y semestre, sin derecho a devolución (2026-2)",
+  "inicio": "2026-08-18",
+  "categoria": "academico",
+  "fin": "2026-11-06",
+  "descripcion": "Dirigido a: Estudiantes activos",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "b6176e1c-83fd-52a3-8fb8-5c5ee433cd79",
+  "titulo": "Grados diciembre: solicitudes de grado (2026-2)",
+  "inicio": "2026-08-24",
+  "categoria": "academico",
+  "fin": "2026-11-06",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "fa419b7d-1f16-58ec-a243-f9fbf2d2a9aa",
+  "titulo": "Grados diciembre: paz y salvo de bilingüismo, documentos para grado y biblioteca (2026-2)",
+  "inicio": "2026-08-24",
+  "categoria": "academico",
+  "fin": "2026-11-13",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "4d6a0f47-0381-58f0-a2d0-60f3cb11403e",
+  "titulo": "Grados diciembre: paz y salvo académico y financiero para grado (2026-2)",
+  "inicio": "2026-08-24",
+  "categoria": "academico",
+  "fin": "2026-11-24",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "de13ca6d-4c87-5df9-8059-fca3ca254857",
+  "titulo": "Grados diciembre: pago de derechos de grado (2026-2)",
+  "inicio": "2026-08-24",
+  "categoria": "academico",
+  "fin": "2026-11-27",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "470a00b2-8661-5cc1-b7b3-497bba3aea75",
+  "titulo": "Diligenciar el formulario de inscripción (2027-1)",
+  "inicio": "2026-08-25",
+  "categoria": "academico",
+  "fin": "2026-11-20",
+  "descripcion": "Dirigido a: Personas que desean ingresar o regresar a la Universidad a través de uno de estos procesos: • Bachilleres • Transferencias externas • Reingresos • Reintegros\nFormulario de inscripción EAFIT"
+ },
+ {
+  "id": "49059175-85e2-5f9e-8fce-1ae245ffa800",
+  "titulo": "Diligenciar el formulario de inscripción (2027-1)",
+  "inicio": "2026-08-25",
+  "categoria": "academico",
+  "fin": "2026-11-20",
+  "descripcion": "Dirigido a: Personas que desean ingresar a la Universidad a través de uno de estos procesos: •Doble programa •Transferencia interna\nFormulario de inscripción EAFIT"
+ },
+ {
+  "id": "dfcf872c-4114-5ac4-b5d3-94bb8cfab6ee",
+  "titulo": "Prueba de escritura 1 y 2 (Ciclo 1) (2026-2)",
+  "inicio": "2026-08-29",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "e6223fb8-b387-5ff5-bc62-4d295cb119c9",
+  "titulo": "Asamblea general de carreras (2026-2)",
+  "inicio": "2026-09-02",
+  "categoria": "evento",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "776a97e0-29bd-59bd-8e92-2f360e148d41",
+  "titulo": "Asamblea general de profesores (2026-2)",
+  "inicio": "2026-09-02",
+  "categoria": "evento",
+  "descripcion": "Dirigido a: Profesores"
+ },
+ {
+  "id": "6d0a8fa9-da0b-574c-a649-a3b4d9540870",
+  "titulo": "Prueba de lectura 1 y 2 (Ciclo 1) (2026-2)",
+  "inicio": "2026-09-05",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "8ff7a231-451f-50e7-baef-9ae52bb5318a",
+  "titulo": "Resultados de admisión (2027-1)",
+  "inicio": "2026-09-09",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Personas que desean ingresar a la Universidad a través de uno de estos procesos: • Bachilleres • Transferencias externas\nUna vez cumplas los requisitos de admisión, consulta tu estado ingresando al Autoservicio EPIK > Módulo Inscripción Pregrado Posgrado > campo Estado\nLa actividad se ejecutará semanalmente, cada miércoles."
+ },
+ {
+  "id": "bded61d9-dc3e-5dac-b360-3af2f05baebc",
+  "titulo": "Exámenes de validación o suficiencia (2026-2)",
+  "inicio": "2026-09-09",
+  "categoria": "academico",
+  "fin": "2026-09-11",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "45852013-68be-5ca0-82bb-d74548adceb5",
+  "titulo": "Inscripción a Ciclo 2 de pruebas de lectura y escritura (2026-2)",
+  "inicio": "2026-09-15",
+  "categoria": "plazo",
+  "fin": "2026-09-17",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "6e416c42-01b0-5f89-9133-fd56af816287",
+  "titulo": "Pago de matrícula estudiantes nuevos y transferencias externas (2027-1)",
+  "inicio": "2026-09-16",
+  "categoria": "plazo",
+  "fin": "2026-11-25",
+  "descripcion": "Dirigido a: Estudiantes nuevos (primera vez, transferencias externas y cupos reservados)\nReglamento Económico Académico"
+ },
+ {
+  "id": "3eed9be8-ce9e-52ca-bfe9-3821138a1490",
+  "titulo": "Prueba de escritura 1 y 2 (Ciclo 2) (2026-2)",
+  "inicio": "2026-09-26",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "fe8edaca-5ca3-5bec-bc07-aaba1f55b750",
+  "titulo": "Jornadas Universitarias (2026-2)",
+  "inicio": "2026-09-28",
+  "categoria": "evento",
+  "fin": "2026-10-04",
+  "descripcion": "Dirigido a: Comunidad universitaria"
+ },
+ {
+  "id": "ac3095d0-96d1-5c86-8823-5702bc689e91",
+  "titulo": "Fecha límite para solicitar la suspensión de semestre (2026-2)",
+  "inicio": "2026-10-02",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "3dc3c1cb-55f6-51c4-8251-2082343da32a",
+  "titulo": "Semana de receso (2026-2)",
+  "inicio": "2026-10-05",
+  "categoria": "academico",
+  "fin": "2026-10-11",
+  "descripcion": "Dirigido a: Toda la comunidad universitaria. Para el semestre"
+ },
+ {
+  "id": "46424c9b-5fca-5599-98cc-f60798edc4f0",
+  "titulo": "Prueba de lectura 1 y 2 (Ciclo 2) (2026-2)",
+  "inicio": "2026-10-17",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "b5270fa5-f6b7-52fc-bc51-408fdc1cfecf",
+  "titulo": "Solicitudes para levantamiento de requisitos (2027-1)",
+  "inicio": "2026-10-19",
+  "categoria": "academico",
+  "fin": "2027-01-15",
+  "descripcion": "Solicitudes para levantamiento de requisitos. (Aplica para cursar materias o práctica con levantamiento de los prerrequisitos, excepto controles de idioma)\nDirigido a: Estudiantes activos y jefes de programa",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "3f64ff85-2aaf-5397-8fb8-b7c338d00993",
+  "titulo": "Solicitud para cursar asignaturas con posgrado (2027-1)",
+  "inicio": "2026-10-20",
+  "categoria": "academico",
+  "fin": "2026-11-03",
+  "descripcion": "Dirigido a: Estudiantes activos",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "17ef4546-b17c-5178-a97b-10c5f6814e8b",
+  "titulo": "Resultados de admisión (2027-1)",
+  "inicio": "2026-10-23",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Personas que desean regresar a la Universidad a través de uno de estos procesos: • Reingreso • Reingreso Transitorio • Reintegros • Reingreso con Transferencia Interna • Reintegro con Grado Previo •Reintegro con Transferencia Interna\nUna vez cumplas los requisitos de admisión, consulta tu estado ingresando al Autoservicio EPIK > Módulo Inscripción Pregrado Posgrado > campo Estado"
+ },
+ {
+  "id": "a6732ed2-0337-5fe0-86ae-b19bc04ff344",
+  "titulo": "Registro de materias (2027-1)",
+  "inicio": "2026-10-26",
+  "categoria": "academico",
+  "fin": "2026-11-06",
+  "descripcion": "Dirigido a: Estudiantes activos y jefes de programa",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "2c41b1a0-eb17-5528-88f4-ce21aec5feed",
+  "titulo": "Fecha límite para reportar notas parciales (70%) en EAFIT Interactiva (2026-2)",
+  "inicio": "2026-11-04",
+  "categoria": "plazo",
+  "descripcion": "Las notas parciales se reportan 15 días calendario después de realizada la evaluación; esta es la fecha límite.\nDirigido a: Profesores"
+ },
+ {
+  "id": "6344ceeb-3b14-5e04-a6df-d25fed31b26f",
+  "titulo": "Evaluaciones finales (2026-2)",
+  "inicio": "2026-11-09",
+  "categoria": "academico",
+  "fin": "2026-11-21",
+  "descripcion": "Dirigido a: Estudiantes que cursan asignaturas con evaluación final programada por el profesor (Registo Académico, no programará los exámenes finales)"
+ },
+ {
+  "id": "d79ab5e3-f360-59ee-9122-a31c98ea0cda",
+  "titulo": "Fecha límite para la aprobación de cancelaciones (2026-2)",
+  "inicio": "2026-11-10",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Profesores",
+  "enlace": "https://www.eafit.edu.co/epik"
+ },
+ {
+  "id": "b2ff217a-e763-5620-8372-740073b7dce9",
+  "titulo": "Supletorios exámenes finales (2026-2)",
+  "inicio": "2026-11-23",
+  "categoria": "academico",
+  "hora": "8:00 a. m. a 10:00 a. m.",
+  "descripcion": "Dirigido a: Estudiantes activos, que por causa de fuerza mayor o caso fortuito, debidamente comprobada, no presentaron las evaluaciones finales en las fechas programadas"
+ },
+ {
+  "id": "43925830-bdf8-586a-87d4-5726fdcf4081",
+  "titulo": "Prueba de refuerzo de competencias Saber Pro (2026-2)",
+  "inicio": "2026-11-23",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes que no obtuvieron el resultado requerido para el grado en las pruebas Saber Pro de 2026-1 o anteriores o en la prueba de refuerzo de competencias",
+  "enlace": "http://www.eafit.edu.co/saberpro"
+ },
+ {
+  "id": "c2c1421a-eae2-559d-95ee-2261461cb49a",
+  "titulo": "Fecha límite para reportar notas del 100% en EAFIT Interactiva (2026-2)",
+  "inicio": "2026-11-24",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Profesores"
+ },
+ {
+  "id": "86435fa4-9f8b-5e15-b917-328a3ba45378",
+  "titulo": "Balance académico (2026-2)",
+  "inicio": "2026-11-25",
+  "categoria": "academico",
+  "fin": "2026-11-27",
+  "descripcion": "Dirigido a: Estudiantes activos"
+ },
+ {
+  "id": "496247dd-1473-54fd-bac2-6dfa989c5f65",
+  "titulo": "Consulta la página para la inscripción de clases (2027-1)",
+  "inicio": "2026-11-27",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes: activos o admitidos para el semestre en curso (• reingresos, • reintegros, • transferencias, • convenios, • doble programa y • asistentes)",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "27e2643e-3adf-55f3-9fa1-694be798545e",
+  "titulo": "Consulta de la programación académica (2027-1)",
+  "inicio": "2026-11-27",
+  "categoria": "academico",
+  "descripcion": "Consulta de la programación académica, a través del Autoservicio Nota: los profesores los asigna la Escuela\nDirigido a: Estudiantes: activos o admitidos para el semestre en curso (• reingresos, • reintegros, • transferencias, • doble programa)",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "ea083cdc-5d9e-5212-b594-c35e00c23ab2",
+  "titulo": "Consulta de la cita para inscripción de clases (2027-1)",
+  "inicio": "2026-11-27",
+  "categoria": "academico",
+  "hora": "En la tarde",
+  "descripcion": "Consulta la cita para la inscripción de clases, a través del Autoservicio, de acuerdo con el PCA del semestre anterior. Reglamento académico de pregrado, Artículo 45 – Inscripción de clases\nDirigido a: Estudiantes activos",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "a6c2609e-8ed3-5c40-aa19-eb2906b7b672",
+  "titulo": "Inscripción de clases (2027-1)",
+  "inicio": "2026-12-01",
+  "categoria": "academico",
+  "fin": "2026-12-09",
+  "hora": "Desde las 8:00 a. m.",
+  "descripcion": "Inscripción de clases, a partir de las 8:00 a.m\nDirigido a: Estudiantes: activos y estudiantes admitidos en calidad de • transferencia interna y • doble programa",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "c7677ce8-1799-532d-ab9b-d520f2a8ca6a",
+  "titulo": "Resultados de admisión (2027-1)",
+  "inicio": "2026-12-03",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Personas que desean ingresar a la Universidad a través de uno de estos procesos: •Doble programa •Transferencia interna\nUna vez cumplas los requisitos de admisión, consulta tu estado ingresando al Autoservicio EPIK > Módulo Inscripción Pregrado Posgrado > campo Estado"
+ },
+ {
+  "id": "4f061d13-d0a5-572d-9ab3-0c6729134cc1",
+  "titulo": "Grados diciembre: ensayo ceremonia de grado (2026-2)",
+  "inicio": "2026-12-07",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "2f495eae-03ab-50fb-9e11-8f746711d60f",
+  "titulo": "Grados diciembre: acto de graduación (2026-2)",
+  "inicio": "2026-12-09",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes aptos para grado"
+ },
+ {
+  "id": "92d6f703-4c42-5adf-82b2-a6ff7058c937",
+  "titulo": "Inscripción de clases (2027-1)",
+  "inicio": "2026-12-10",
+  "categoria": "academico",
+  "hora": "Desde las 2:00 p. m.",
+  "descripcion": "Dirigido a: Estudiantes que retoman sus estudios: • Reintegro",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "840f2a71-cabf-565a-8cf3-ed57e4626c17",
+  "titulo": "Inscripción de clases con el jefe del programa (2027-1)",
+  "inicio": "2026-12-10",
+  "categoria": "academico",
+  "descripcion": "Dirigido a: Estudiantes que regresan con matrícula condicional (• reingresos)",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "620dce59-65a1-50b8-a38a-69c95d24035c",
+  "titulo": "Inscripción de clases (2027-1)",
+  "inicio": "2026-12-10",
+  "categoria": "academico",
+  "fin": "2027-01-12",
+  "descripcion": "Dirigido a: Estudiantes activos que no hicieron registro de asignaturas",
+  "enlace": "https://www.eafit.edu.co/matricula-estudiantes-activos"
+ },
+ {
+  "id": "b75ae247-3e17-5896-a6c8-279fdf669623",
+  "titulo": "Vacaciones colectivas",
+  "inicio": "2026-12-14",
+  "categoria": "otro",
+  "descripcion": "Dirigido a: Comunidad universitaria"
+ },
+ {
+  "id": "7ede3443-1647-5c47-a2fc-c55375861cd3",
+  "titulo": "Fecha límite de pago sin recargo (2027-1)",
+  "inicio": "2027-01-12",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Estudiantes antiguos con liquidación de matrícula generada"
+ },
+ {
+  "id": "96703c1a-0af3-5255-a115-d85d0dd9fef2",
+  "titulo": "Fecha límite de pago con recargo (2027-1)",
+  "inicio": "2027-01-22",
+  "categoria": "plazo",
+  "descripcion": "Dirigido a: Estudiantes antiguos con liquidación de matrícula generada"
+ }
+]

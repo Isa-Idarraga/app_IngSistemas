@@ -1,0 +1,11 @@
+node_modules
+.next
+.data
+.env*.local
+.env
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# archivos temporales
+*.tgz
