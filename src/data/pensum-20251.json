@@ -25,7 +25,7 @@
   }
  ],
  "notas": [
-  "La ubicación por semestre sigue la malla gráfica oficial. Los cursos sin créditos o que no aparecen en la malla se muestran como requisitos adicionales."
+  "La ubicación por semestre sigue el plan de estudios (PDF) y la malla gráfica 2025-1. Los cursos sin créditos o que no aparecen en la malla gráfica se muestran como requisitos adicionales."
  ],
  "enfasisOfertados": {
   "periodo": "2027-1",
@@ -559,7 +559,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 5
+   "orden": 4
   },
   {
    "id": "SI2002",
@@ -579,7 +579,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 6
+   "orden": 5
   },
   {
    "id": "SI2003",
@@ -609,7 +609,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 4
+   "orden": 3
   },
   {
    "id": "TA2003",
@@ -677,7 +677,7 @@
    "nombre": "Física 2",
    "creditos": 3,
    "umes": 5,
-   "semestre": 3,
+   "semestre": 4,
    "area": "basicas",
    "requisitos": [
     [
@@ -694,7 +694,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 3
+   "orden": 2
   },
   {
    "id": "SI2004",
@@ -718,7 +718,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 3
+   "orden": 4
   },
   {
    "id": "SI2005",
@@ -743,7 +743,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 4
+   "orden": 5
   },
   {
    "id": "SI2007",
@@ -763,7 +763,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 2
+   "orden": 3
   },
   {
    "id": "SI2008",
@@ -771,35 +771,11 @@
    "nombre": "Sistemas de Información",
    "creditos": 3,
    "umes": 4,
-   "semestre": 5,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "co",
-      "codigo": "SI2005",
-      "nombre": "Ingeniería de Software"
-     }
-    ]
-   ],
-   "grupos": [],
-   "orden": 5
-  },
-  {
-   "id": "ST0251",
-   "codigo": "ST0251",
-   "nombre": "Proyecto Integrador 1",
-   "creditos": 3,
-   "umes": 4,
    "semestre": 4,
    "area": "profesional",
    "requisitos": [
     [
      {
-      "tipo": "bilinguismo",
-      "valor": "Cumplimiento A1 Bilinguismo"
-     },
-     {
       "tipo": "co",
       "codigo": "SI2005",
       "nombre": "Ingeniería de Software"
@@ -807,8 +783,7 @@
     ]
    ],
    "grupos": [],
-   "secundario": true,
-   "nota": "Aparece en el PDF del plan (Cuarto Semestre), pero no en la malla gráfica."
+   "orden": 6
   },
   {
    "id": "SI3001",
@@ -828,7 +803,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 2
+   "orden": 3
   },
   {
    "id": "SI3002",
@@ -858,7 +833,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 4
+   "orden": 5
   },
   {
    "id": "SI3003",
@@ -888,7 +863,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 3
+   "orden": 4
   },
   {
    "id": "SI3004",
@@ -896,8 +871,8 @@
    "nombre": "Proyecto 2",
    "creditos": 3,
    "umes": 5,
-   "semestre": 4,
-   "area": "profesional",
+   "semestre": 5,
+   "area": "proyecto",
    "requisitos": [
     [
      {
@@ -925,7 +900,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 5
+   "orden": 6
   },
   {
    "id": "SI3005",
@@ -945,7 +920,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 1
+   "orden": 2
   },
   {
    "id": "SI3006",
@@ -965,7 +940,7 @@
     ]
    ],
    "grupos": [],
-   "orden": 2
+   "orden": 1
   },
   {
    "id": "TA4003",
@@ -3688,12 +3663,14 @@
    "nombre": "Ciudadanía y Democracia",
    "creditos": 3,
    "umes": 4,
-   "semestre": null,
+   "semestre": 1,
    "area": "nfi",
    "requisitos": [],
    "grupos": [
     "ciclo-comun-completo-nfi"
-   ]
+   ],
+   "etiqueta": "Ciudadanía y democracia (NFI 2)",
+   "orden": 6
   },
   {
    "id": "FH1037",
@@ -3707,7 +3684,7 @@
    "grupos": [
     "ciclo-comun-completo-nfi"
    ],
-   "etiqueta": "Pensamiento computacional (NF1)",
+   "etiqueta": "Pensamiento computacional (NFI 1)",
    "orden": 5
   },
   {
@@ -4992,33 +4969,6 @@
    "orden": 3
   },
   {
-   "id": "nf2",
-   "codigo": "",
-   "nombre": "NF2",
-   "creditos": 3,
-   "umes": 0,
-   "semestre": 1,
-   "area": "nfi",
-   "requisitos": [],
-   "grupos": [],
-   "opciones": [
-    "ciclo-comun-completo-nfi",
-    "ciclo-electivo-la-pregunta-por-la-vida-buena",
-    "ciclo-electivo-arte-y-ciudadania",
-    "ciclo-electivo-critica-y-opinion-publica",
-    "ciclo-electivo-literatura-aplicada",
-    "ciclo-electivo-cultura-humanistica",
-    "ciclo-electivo-escrituras-creativas",
-    "ciclo-electivo-desarrollo-sostenible",
-    "ciclo-electivo-estudios-politicos",
-    "ciclo-electivo-musica",
-    "ciclo-electivo-estudios-de-ciencia",
-    "ciclo-electivo-pensar-lo-social"
-   ],
-   "cupo": true,
-   "orden": 6
-  },
-  {
    "id": "nfi3",
    "codigo": "",
    "nombre": "NFI 3",
@@ -5051,7 +5001,7 @@
    "nombre": "NFI 4",
    "creditos": 3,
    "umes": 0,
-   "semestre": 4,
+   "semestre": 3,
    "area": "nfi",
    "requisitos": [],
    "grupos": [],
@@ -5078,7 +5028,7 @@
    "nombre": "NFI 5",
    "creditos": 3,
    "umes": 0,
-   "semestre": 5,
+   "semestre": 6,
    "area": "nfi",
    "requisitos": [],
    "grupos": [],
@@ -5121,7 +5071,7 @@
    "nombre": "Electiva matemáticas 2",
    "creditos": 3,
    "umes": 0,
-   "semestre": 6,
+   "semestre": 5,
    "area": "basicas",
    "requisitos": [],
    "grupos": [],
@@ -5132,9 +5082,30 @@
    "orden": 1
   },
   {
-   "id": "t-t1-curso-1",
+   "id": "t-trayectoria-1-curso-1",
    "codigo": "",
-   "nombre": "T1: Curso 1",
+   "nombre": "Trayectoria 1 · Curso 1",
+   "creditos": 3,
+   "umes": 0,
+   "semestre": 6,
+   "area": "trayectoria",
+   "requisitos": [],
+   "grupos": [],
+   "opciones": [
+    "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido",
+    "trayectoria-infraestructura-ti",
+    "trayectoria-ingenieria-de-datos",
+    "trayectoria-desarrollo-de-software",
+    "trayectoria-inteligencia-artificial",
+    "trayectoria-sistemas-de-informacion"
+   ],
+   "cupo": true,
+   "orden": 2
+  },
+  {
+   "id": "t-trayectoria-1-curso-2",
+   "codigo": "",
+   "nombre": "Trayectoria 1 · Curso 2",
    "creditos": 3,
    "umes": 0,
    "semestre": 6,
@@ -5153,9 +5124,9 @@
    "orden": 3
   },
   {
-   "id": "t-t1-curso-2",
+   "id": "t-trayectoria-2-curso-1",
    "codigo": "",
-   "nombre": "T1: Curso 2",
+   "nombre": "Trayectoria 2 · Curso 1",
    "creditos": 3,
    "umes": 0,
    "semestre": 6,
@@ -5174,30 +5145,9 @@
    "orden": 4
   },
   {
-   "id": "t-t2-curso-1",
+   "id": "t-trayectoria-1-curso-3",
    "codigo": "",
-   "nombre": "T2: Curso 1",
-   "creditos": 3,
-   "umes": 0,
-   "semestre": 6,
-   "area": "trayectoria",
-   "requisitos": [],
-   "grupos": [],
-   "opciones": [
-    "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido",
-    "trayectoria-infraestructura-ti",
-    "trayectoria-ingenieria-de-datos",
-    "trayectoria-desarrollo-de-software",
-    "trayectoria-inteligencia-artificial",
-    "trayectoria-sistemas-de-informacion"
-   ],
-   "cupo": true,
-   "orden": 5
-  },
-  {
-   "id": "t-t1-curso-3",
-   "codigo": "",
-   "nombre": "T1: Curso 3",
+   "nombre": "Trayectoria 1 · Curso 3",
    "creditos": 3,
    "umes": 0,
    "semestre": 7,
@@ -5216,9 +5166,9 @@
    "orden": 1
   },
   {
-   "id": "t-t2-curso-2",
+   "id": "t-trayectoria-2-curso-2",
    "codigo": "",
-   "nombre": "T2: Curso 2",
+   "nombre": "Trayectoria 2 · Curso 2",
    "creditos": 3,
    "umes": 0,
    "semestre": 7,
@@ -5237,9 +5187,9 @@
    "orden": 2
   },
   {
-   "id": "t-t2-curso-3",
+   "id": "t-trayectoria-2-curso-3",
    "codigo": "",
-   "nombre": "T2: Curso 3",
+   "nombre": "Trayectoria 2 · Curso 3",
    "creditos": 3,
    "umes": 0,
    "semestre": 7,
@@ -5258,13 +5208,13 @@
    "orden": 3
   },
   {
-   "id": "proyecto-3",
+   "id": "t1-proyecto",
    "codigo": "",
-   "nombre": "Proyecto 3",
+   "nombre": "Trayectoria 1 · Proyecto",
    "creditos": 3,
    "umes": 0,
    "semestre": 7,
-   "area": "trayectoria",
+   "area": "proyecto",
    "requisitos": [],
    "grupos": [],
    "opciones": [
@@ -5276,16 +5226,16 @@
     "trayectoria-sistemas-de-informacion"
    ],
    "cupo": true,
-   "orden": 4
+   "orden": 5
   },
   {
-   "id": "proyecto-4",
+   "id": "t2-proyecto",
    "codigo": "",
-   "nombre": "Proyecto 4",
+   "nombre": "Trayectoria 2 · Proyecto",
    "creditos": 3,
    "umes": 0,
-   "semestre": 9,
-   "area": "trayectoria",
+   "semestre": 7,
+   "area": "proyecto",
    "requisitos": [],
    "grupos": [],
    "opciones": [
@@ -5297,12 +5247,12 @@
     "trayectoria-sistemas-de-informacion"
    ],
    "cupo": true,
-   "orden": 2
+   "orden": 6
   },
   {
    "id": "flexible-1",
    "codigo": "",
-   "nombre": "Flexible 1",
+   "nombre": "Trayectoria flexible 1",
    "creditos": 3,
    "umes": 0,
    "semestre": 6,
@@ -5338,12 +5288,12 @@
     "trayectoria-ciencias-naturales"
    ],
    "cupo": true,
-   "orden": 6
+   "orden": 5
   },
   {
    "id": "flexible-2",
    "codigo": "",
-   "nombre": "Flexible 2",
+   "nombre": "Trayectoria flexible 2",
    "creditos": 3,
    "umes": 0,
    "semestre": 7,
@@ -5379,15 +5329,15 @@
     "trayectoria-ciencias-naturales"
    ],
    "cupo": true,
-   "orden": 5
+   "orden": 4
   },
   {
    "id": "flexible-3",
    "codigo": "",
-   "nombre": "Flexible 3",
+   "nombre": "Trayectoria flexible 3",
    "creditos": 3,
    "umes": 0,
-   "semestre": 7,
+   "semestre": 9,
    "area": "trayectoria",
    "requisitos": [],
    "grupos": [],
@@ -5420,12 +5370,12 @@
     "trayectoria-ciencias-naturales"
    ],
    "cupo": true,
-   "orden": 6
+   "orden": 2
   },
   {
    "id": "flexible-4",
    "codigo": "",
-   "nombre": "Flexible 4",
+   "nombre": "Trayectoria flexible 4",
    "creditos": 3,
    "umes": 0,
    "semestre": 9,

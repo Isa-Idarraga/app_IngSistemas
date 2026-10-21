@@ -14,6 +14,7 @@ export type Area =
   | "nfi"
   | "trayectoria"
   | "practica"
+  | "proyecto"
   | "institucional"
   | "otra";
 
@@ -84,6 +85,7 @@ export const AREAS: Record<Area, { nombre: string; color: string; texto: string 
   nfi: { nombre: "Formación institucional", color: "#f5a25d", texto: "#3b2208" },
   trayectoria: { nombre: "Trayectorias y flexibles", color: "#8d9a12", texto: "#ffffff" },
   practica: { nombre: "Práctica", color: "#7b1d2b", texto: "#ffffff" },
+  proyecto: { nombre: "Proyectos", color: "#8e3a6e", texto: "#ffffff" },
   institucional: { nombre: "Requisito institucional", color: "#7a8aa6", texto: "#ffffff" },
   otra: { nombre: "Otra", color: "#5b6b7f", texto: "#ffffff" },
 };
