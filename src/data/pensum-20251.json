@@ -1574,13 +1574,7 @@
    "grupos": [
     "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido"
    ],
-   "descripcion": "Las bases de blockchain y los sistemas de registro distribuido (DLT): descentralización, consenso, inmutabilidad y transparencia, la historia desde Bitcoin hasta hoy y en qué se diferencia una blockchain de una base de datos tradicional.\n\nTiene una parte fuerte de criptografía: su historia y principios matemáticos, criptografía de clave privada y pública, funciones hash, firmas digitales e identidad digital. Cierra con algoritmos distribuidos, consenso, tolerancia a fallos y el problema de los generales bizantinos.",
-   "enlaces": [
-    {
-     "titulo": "Sitio del curso",
-     "url": "https://sites.google.com/site/sergiosramirezrico/eafit/blockchain"
-    }
-   ]
+   "descripcion": "Las bases de blockchain y los sistemas de registro distribuido (DLT): descentralización, consenso, inmutabilidad y transparencia, la historia desde Bitcoin hasta hoy y en qué se diferencia una blockchain de una base de datos tradicional.\n\nTiene una parte fuerte de criptografía: su historia y principios matemáticos, criptografía de clave privada y pública, funciones hash, firmas digitales e identidad digital. Cierra con algoritmos distribuidos, consenso, tolerancia a fallos y el problema de los generales bizantinos."
   },
   {
    "id": "CI3004",
@@ -1607,13 +1601,7 @@
    "grupos": [
     "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido"
    ],
-   "descripcion": "Ethereum y los contratos inteligentes: en qué se diferencia de Bitcoin, otros protocolos blockchain, creación y gestión de tokens, casos de uso como pagos, identidad digital y trazabilidad, riesgos de seguridad y buenas prácticas, y wallets y manejo seguro de llaves.\n\nBuena parte del curso es práctica: diseño, programación y auditoría de contratos inteligentes, DApps y DAOs.",
-   "enlaces": [
-    {
-     "titulo": "Sitio del curso",
-     "url": "https://sites.google.com/site/sergiosramirezrico/eafit/blockchain"
-    }
-   ]
+   "descripcion": "Ethereum y los contratos inteligentes: en qué se diferencia de Bitcoin, otros protocolos blockchain, creación y gestión de tokens, casos de uso como pagos, identidad digital y trazabilidad, riesgos de seguridad y buenas prácticas, y wallets y manejo seguro de llaves.\n\nBuena parte del curso es práctica: diseño, programación y auditoría de contratos inteligentes, DApps y DAOs."
   },
   {
    "id": "CI4004",
@@ -1640,13 +1628,7 @@
    "grupos": [
     "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido"
    ],
-   "descripcion": "Cómo se sostienen económicamente los sistemas de registro distribuido y quién los gobierna. Cada estudiante escoge un protocolo real al inicio y lo sigue durante todo el curso.\n\nRecorre siete unidades: los fundamentos del registro (doble gasto, fallas bizantinas, hash, firmas, árboles de Merkle, UTXO frente a cuentas y tipos de DLT); el consenso como problema económico (consenso clásico y de Nakamoto, prueba de trabajo y de participación, familias BFT, trilema, canales y rollups, MEV); la criptoeconomía (diseño de mecanismos, comisiones y EIP-1559, política monetaria en el protocolo, oráculos y staking líquido); los tokens (taxonomía, stablecoins, activos tokenizados, emisión y distribución, valoración, creadores de mercado automáticos y crédito en cadena); la gobernanza (dentro y fuera de cadena, bifurcaciones, The DAO, DAOs y delegación); derecho y política pública (MiCA, el enfoque de Estados Unidos, GAFI, el marco colombiano y las monedas digitales de banco central); y aplicaciones y crítica (identidad autosoberana, trazabilidad, huella energética y cómo medir la descentralización).",
-   "enlaces": [
-    {
-     "titulo": "Sitio del curso",
-     "url": "https://criptoeconomia-dlt.vercel.app/"
-    }
-   ]
+   "descripcion": "Cómo se sostienen económicamente los sistemas de registro distribuido y quién los gobierna. Cada estudiante escoge un protocolo real al inicio y lo sigue durante todo el curso.\n\nRecorre siete unidades: los fundamentos del registro (doble gasto, fallas bizantinas, hash, firmas, árboles de Merkle, UTXO frente a cuentas y tipos de DLT); el consenso como problema económico (consenso clásico y de Nakamoto, prueba de trabajo y de participación, familias BFT, trilema, canales y rollups, MEV); la criptoeconomía (diseño de mecanismos, comisiones y EIP-1559, política monetaria en el protocolo, oráculos y staking líquido); los tokens (taxonomía, stablecoins, activos tokenizados, emisión y distribución, valoración, creadores de mercado automáticos y crédito en cadena); la gobernanza (dentro y fuera de cadena, bifurcaciones, The DAO, DAOs y delegación); derecho y política pública (MiCA, el enfoque de Estados Unidos, GAFI, el marco colombiano y las monedas digitales de banco central); y aplicaciones y crítica (identidad autosoberana, trazabilidad, huella energética y cómo medir la descentralización)."
   },
   {
    "id": "CI5003",
@@ -1820,13 +1802,7 @@
    "grupos": [
     "trayectoria-ingenieria-de-datos"
    ],
-   "descripcion": "Cómo gestionar y gobernar los datos como un activo de la organización, más allá de la parte técnica.\n\nEl curso tiene cuatro módulos. El primero ve el dato como activo: por qué fracasan las iniciativas de datos, estrategia y valoración del dato, modelo operativo, priorización y deuda de datos. El segundo trata cómo se arma un programa de gobernanza con marcos como DAMA-DMBOK, ISO/IEC 38505 y COBIT, políticas que realmente se cumplan, calidad y contratos de datos, y metadatos, linaje y catálogo. El tercero cubre riesgo, seguridad y cumplimiento: clasificación y control de acceso, NIST CSF 2.0 e ISO 27001, riesgo cuantitativo con FAIR, privacidad, la Ley 1581 y la respuesta a incidentes. El cuarto trata el gobierno de la IA: NIST AI RMF, ISO/IEC 42001 y el EU AI Act, datos para IA (RAG, datos sintéticos, agentes) y la auditoría de sesgos en decisiones algorítmicas. Incluye simuladores y talleres prácticos.",
-   "enlaces": [
-    {
-     "titulo": "Sitio del curso",
-     "url": "https://gobernanzadatos.vercel.app"
-    }
-   ]
+   "descripcion": "Cómo gestionar y gobernar los datos como un activo de la organización, más allá de la parte técnica.\n\nEl curso tiene cuatro módulos. El primero ve el dato como activo: por qué fracasan las iniciativas de datos, estrategia y valoración del dato, modelo operativo, priorización y deuda de datos. El segundo trata cómo se arma un programa de gobernanza con marcos como DAMA-DMBOK, ISO/IEC 38505 y COBIT, políticas que realmente se cumplan, calidad y contratos de datos, y metadatos, linaje y catálogo. El tercero cubre riesgo, seguridad y cumplimiento: clasificación y control de acceso, NIST CSF 2.0 e ISO 27001, riesgo cuantitativo con FAIR, privacidad, la Ley 1581 y la respuesta a incidentes. El cuarto trata el gobierno de la IA: NIST AI RMF, ISO/IEC 42001 y el EU AI Act, datos para IA (RAG, datos sintéticos, agentes) y la auditoría de sesgos en decisiones algorítmicas. Incluye simuladores y talleres prácticos."
   },
   {
    "id": "SI4002",
@@ -1970,13 +1946,7 @@
    "grupos": [
     "trayectoria-inteligencia-artificial"
    ],
-   "descripcion": "Los fundamentos y los modelos principales del deep learning, trabajados en PyTorch.\n\nSon cuatro módulos. El primero cubre los fundamentos: qué es el deep learning, tensores y operaciones básicas, el álgebra lineal que hay detrás, la neurona artificial y el perceptrón, funciones de activación (ReLU, Sigmoid, Tanh, Softmax) y de pérdida, organización de los datos en entrenamiento, validación y prueba con Dataset y DataLoader, y optimización con descenso del gradiente, SGD y Adam, hasta un primer modelo de regresión. El segundo trata los modelos convolucionales (CNN, autoencoders y U-Net) y cómo entrenarlos bien: optimizadores, overfitting y underfitting, hiperparámetros, grid search frente a random search, early stopping y PCA frente a autoencoders. El tercero cubre modelos generativos y de atención: VAE, GANs y cGANs, por qué surge la atención frente a las RNN, self-attention, una visión general de los transformers y la arquitectura encoder-decoder, con casos de uso en texto, imágenes y señales y sus costos computacionales. El cuarto se enfoca en modelos secuenciales: RNN, desvanecimiento y explosión del gradiente, LSTM, GRU, pronóstico de series de tiempo y fundamentos de procesamiento de lenguaje natural. Se trabaja con laboratorios y un proyecto final en grupo.",
-   "enlaces": [
-    {
-     "titulo": "Repositorio del curso",
-     "url": "https://github.com/jdmartinev/SI3014---Redes-Neuronales-y-Aprendizaje-Profundo/blob/main/README.md"
-    }
-   ]
+   "descripcion": "Los fundamentos y los modelos principales del deep learning, trabajados en PyTorch.\n\nSon cuatro módulos. El primero cubre los fundamentos: qué es el deep learning, tensores y operaciones básicas, el álgebra lineal que hay detrás, la neurona artificial y el perceptrón, funciones de activación (ReLU, Sigmoid, Tanh, Softmax) y de pérdida, organización de los datos en entrenamiento, validación y prueba con Dataset y DataLoader, y optimización con descenso del gradiente, SGD y Adam, hasta un primer modelo de regresión. El segundo trata los modelos convolucionales (CNN, autoencoders y U-Net) y cómo entrenarlos bien: optimizadores, overfitting y underfitting, hiperparámetros, grid search frente a random search, early stopping y PCA frente a autoencoders. El tercero cubre modelos generativos y de atención: VAE, GANs y cGANs, por qué surge la atención frente a las RNN, self-attention, una visión general de los transformers y la arquitectura encoder-decoder, con casos de uso en texto, imágenes y señales y sus costos computacionales. El cuarto se enfoca en modelos secuenciales: RNN, desvanecimiento y explosión del gradiente, LSTM, GRU, pronóstico de series de tiempo y fundamentos de procesamiento de lenguaje natural. Se trabaja con laboratorios y un proyecto final en grupo."
   },
   {
    "id": "SI3015",
