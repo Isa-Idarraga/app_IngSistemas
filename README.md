@@ -1,6 +1,6 @@
 # Ingeniería de Sistemas · EAFIT
 
-Página con calendario de eventos y pénsum interactivo (20251, 20222, 20081), con panel de admin en `/admin`.
+Página con calendario de eventos y pénsum interactivo (20251, 20222, 20081), con panel de admin en `/administradorisa` (no aparece en la barra de navegación).
 
 ## Correrlo en tu computador
 

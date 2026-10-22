@@ -32,7 +32,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <nav className="nav">
               <Link href="/calendario">Calendario</Link>
               <Link href="/pensum">Pénsum</Link>
-              <Link href="/admin" className="nav-admin">Admin</Link>
             </nav>
           </div>
         </header>
