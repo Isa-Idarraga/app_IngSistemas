@@ -36,14 +36,23 @@ export interface Curso {
   cupo?: boolean;
   opciones?: string[];
   nota?: string;
+  /** Descripción de los contenidos del curso (párrafos separados por línea en blanco) */
+  descripcion?: string;
+  enlaces?: Enlace[];
 }
 
 export type Seccion = "obligatorios" | "complementarios" | "nfi" | "enfasis";
+
+export interface Enlace {
+  titulo: string;
+  url: string;
+}
 
 export interface Grupo {
   id: string;
   nombre: string;
   seccion: Seccion;
+  descripcion?: string;
 }
 
 export interface Pensum {

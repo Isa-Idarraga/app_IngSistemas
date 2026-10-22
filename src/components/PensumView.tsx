@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { AREAS, SECCIONES, type Curso, type Pensum, type Requisito, type Seccion } from "@/lib/types";
+import { AREAS, SECCIONES, type Curso, type Grupo, type Pensum, type Requisito, type Seccion } from "@/lib/types";
 
 const ORDINAL = ["", "Primer", "Segundo", "Tercer", "Cuarto", "Quinto", "Sexto", "Séptimo", "Octavo", "Noveno", "Décimo", "Undécimo", "Duodécimo"];
 
@@ -91,8 +91,11 @@ export default function PensumView({ pensums }: { pensums: Pensum[] }) {
 
   const areasUsadas = [...new Set(p.cursos.filter((c) => c.semestre && !c.secundario).map((c) => c.area))];
 
+  // Las trayectorias profesionalizantes se muestran en su propio bloque, con su descripción
+  const esTrayectoria = (g: Grupo) => g.seccion === "obligatorios" && g.nombre.startsWith("Trayectoria");
+  const trayectorias = p.grupos.filter((g) => esTrayectoria(g) && p.cursos.some((c) => c.grupos.includes(g.id)));
   const secciones = (Object.keys(SECCIONES) as Seccion[])
-    .map((s) => ({ s, grupos: p.grupos.filter((g) => g.seccion === s) }))
+    .map((s) => ({ s, grupos: p.grupos.filter((g) => g.seccion === s && !esTrayectoria(g)) }))
     .filter((x) => x.grupos.length);
 
   return (
@@ -201,6 +204,35 @@ export default function PensumView({ pensums }: { pensums: Pensum[] }) {
             </ul>
           </div>
         )}
+        {trayectorias.length > 0 && (
+          <div className="cat-sec">
+            <h3>Trayectorias profesionalizantes</h3>
+            <div className="tray-grid">
+              {trayectorias.map((g) => {
+                const cursos = p.cursos.filter((c) => c.grupos.includes(g.id));
+                const visibles = cursos.filter(coincide);
+                if (q && !visibles.length) return null;
+                return (
+                  <article key={g.id} className="tray">
+                    <h4>{g.nombre.replace(/^Trayectoria (en )?/, "")}</h4>
+                    {g.descripcion && <p className="tray-desc">{g.descripcion}</p>}
+                    <ul>
+                      {(q ? visibles : cursos).map((c) => (
+                        <li key={c.id}>
+                          <button onClick={() => setSelId(c.id)}>
+                            <code>{c.codigo}</code>
+                            <span>{c.nombre}</span>
+                            {c.descripcion && <i className="has-desc" title="Tiene descripción de contenidos">Contenidos</i>}
+                          </button>
+                        </li>
+                      ))}
+                    </ul>
+                  </article>
+                );
+              })}
+            </div>
+          </div>
+        )}
         {secciones.map(({ s, grupos }) => (
           <div key={s} className="cat-sec">
             <h3>{SECCIONES[s]}</h3>
@@ -216,11 +248,13 @@ export default function PensumView({ pensums }: { pensums: Pensum[] }) {
                       <span>{g.nombre}</span>
                       <small>{cursos.length}</small>
                     </summary>
+                    {g.descripcion && <p className="grupo-desc">{g.descripcion}</p>}
                     <ul>
                       {(q ? visibles : cursos).map((c) => (
                         <li key={c.id}>
                           <button onClick={() => setSelId(c.id)}>
                             <code>{c.codigo}</code> {c.nombre} <small>{c.creditos} cr</small>
+                            {c.descripcion && <i className="has-desc">Contenidos</i>}
                           </button>
                         </li>
                       ))}
@@ -309,6 +343,24 @@ function Detalle({
         {c.etiqueta && c.etiqueta !== c.nombre && <p className="muted">{c.nombre}</p>}
         {c.nota && <p className="nota">{c.nota}</p>}
 
+        {(c.descripcion || (c.enlaces && c.enlaces.length > 0)) && (
+          <section>
+            <h3>De qué se trata</h3>
+            {c.descripcion?.split(/\n\s*\n/).map((par, i) => (
+              <p key={i} className="desc-par">{par}</p>
+            ))}
+            {c.enlaces && c.enlaces.length > 0 && (
+              <div className="enlaces">
+                {c.enlaces.map((e) => (
+                  <a key={e.url} href={e.url} target="_blank" rel="noopener noreferrer" className="btn btn-sm">
+                    {e.titulo} ↗
+                  </a>
+                ))}
+              </div>
+            )}
+          </section>
+        )}
+
         {!c.cupo && (
           <section>
             <h3>Requisitos</h3>
@@ -353,6 +405,7 @@ function Detalle({
                   <span>{g.nombre}</span>
                   <small>{p.cursos.filter((x) => x.grupos.includes(g.id)).length}</small>
                 </summary>
+                {g.descripcion && <p className="grupo-desc">{g.descripcion}</p>}
                 <ul>
                   {p.cursos
                     .filter((x) => x.grupos.includes(g.id))

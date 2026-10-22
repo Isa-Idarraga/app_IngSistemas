@@ -23,6 +23,13 @@ function validar(p: Pensum, id: string): string | null {
     if (ids.has(c.id)) return `La materia ${c.id} está repetida.`;
     ids.add(c.id);
     if (!Array.isArray(c.requisitos) || !Array.isArray(c.grupos)) return `Materia ${c.id} inválida.`;
+    if (c.enlaces !== undefined) {
+      if (!Array.isArray(c.enlaces)) return `Enlaces inválidos en ${c.nombre}.`;
+      for (const e of c.enlaces) {
+        if (!e?.titulo?.trim()) return `Un enlace de ${c.nombre} no tiene título.`;
+        if (!/^https?:\/\/\S+$/i.test(e.url ?? "")) return `El enlace "${e.titulo}" de ${c.nombre} debe empezar por https://`;
+      }
+    }
   }
   return null;
 }

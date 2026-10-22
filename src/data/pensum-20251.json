@@ -46,27 +46,32 @@
   {
    "id": "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido",
    "nombre": "Trayectoria en Blockchain y Tecnologías de Registro Distribuido",
-   "seccion": "obligatorios"
+   "seccion": "obligatorios",
+   "descripcion": "Recorre la tecnología blockchain desde sus bases (criptografía, algoritmos distribuidos y consenso), pasando por Ethereum y la programación de contratos inteligentes, hasta la economía, la gobernanza y la regulación de los sistemas de registro distribuido. Cierra con un proyecto blockchain."
   },
   {
    "id": "trayectoria-infraestructura-ti",
    "nombre": "Trayectoria Infraestructura TI",
-   "seccion": "obligatorios"
+   "seccion": "obligatorios",
+   "descripcion": "Para quienes quieren diseñar, desplegar y operar la infraestructura que sostiene sistemas grandes. Arranca con los fundamentos de los sistemas distribuidos y la computación en nube, sigue con cómo lograr que aplicaciones y sistemas escalen y resistan fallas, y cierra con un proyecto en equipo donde se construye, opera y defiende una infraestructura escalable y resiliente para un problema real."
   },
   {
    "id": "trayectoria-ingenieria-de-datos",
    "nombre": "Trayectoria Ingeniería de Datos",
-   "seccion": "obligatorios"
+   "seccion": "obligatorios",
+   "descripcion": "Enfocada en los sistemas que almacenan, procesan y gobiernan grandes volúmenes de datos. Cubre cómo se diseñan y operan sistemas intensivos en datos (almacenamiento distribuido, procesamiento batch y en streaming, DataOps y MLOps) y cómo se gestionan y gobiernan los datos como un activo de la organización (calidad, seguridad, cumplimiento y gobierno de la IA). Incluye también Bases de Datos Avanzadas y un proyecto de ingeniería de datos."
   },
   {
    "id": "trayectoria-desarrollo-de-software",
    "nombre": "Trayectoria Desarrollo de Software",
-   "seccion": "obligatorios"
+   "seccion": "obligatorios",
+   "descripcion": "Centrada en construir software web de calidad. Cubre las técnicas actuales para crear aplicaciones web (SSR, CSR, frameworks híbridos, monolitos y arquitecturas frontend-backend), con énfasis en código limpio y mantenible, y las pruebas de software, desde análisis estático y pruebas unitarias hasta pruebas end-to-end y TDD. Incluye también Interacción Humano Computador y un proyecto en desarrollo de software."
   },
   {
    "id": "trayectoria-inteligencia-artificial",
    "nombre": "Trayectoria Inteligencia Artificial",
-   "seccion": "obligatorios"
+   "seccion": "obligatorios",
+   "descripcion": "Va desde los fundamentos del aprendizaje automático (supervisado, no supervisado, SVM, árboles y boosting) y del deep learning (CNN, autoencoders, GANs, atención, RNN y LSTM) hasta los sistemas modernos de IA generativa: transformers, evaluación de modelos generativos, RAG, agentes, modelos multimodales y despliegue. Cierra con un proyecto en inteligencia artificial."
   },
   {
    "id": "trayectoria-sistemas-de-informacion",
@@ -1568,6 +1573,13 @@
    ],
    "grupos": [
     "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido"
+   ],
+   "descripcion": "Las bases de blockchain y los sistemas de registro distribuido (DLT): descentralización, consenso, inmutabilidad y transparencia, la historia desde Bitcoin hasta hoy y en qué se diferencia una blockchain de una base de datos tradicional.\n\nTiene una parte fuerte de criptografía: su historia y principios matemáticos, criptografía de clave privada y pública, funciones hash, firmas digitales e identidad digital. Cierra con algoritmos distribuidos, consenso, tolerancia a fallos y el problema de los generales bizantinos.",
+   "enlaces": [
+    {
+     "titulo": "Sitio del curso",
+     "url": "https://sites.google.com/site/sergiosramirezrico/eafit/blockchain"
+    }
    ]
   },
   {
@@ -1594,6 +1606,13 @@
    ],
    "grupos": [
     "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido"
+   ],
+   "descripcion": "Ethereum y los contratos inteligentes: en qué se diferencia de Bitcoin, otros protocolos blockchain, creación y gestión de tokens, casos de uso como pagos, identidad digital y trazabilidad, riesgos de seguridad y buenas prácticas, y wallets y manejo seguro de llaves.\n\nBuena parte del curso es práctica: diseño, programación y auditoría de contratos inteligentes, DApps y DAOs.",
+   "enlaces": [
+    {
+     "titulo": "Sitio del curso",
+     "url": "https://sites.google.com/site/sergiosramirezrico/eafit/blockchain"
+    }
    ]
   },
   {
@@ -1620,6 +1639,13 @@
    ],
    "grupos": [
     "trayectoria-en-blockchain-y-tecnologias-de-registro-distribuido"
+   ],
+   "descripcion": "Cómo se sostienen económicamente los sistemas de registro distribuido y quién los gobierna. Cada estudiante escoge un protocolo real al inicio y lo sigue durante todo el curso.\n\nRecorre siete unidades: los fundamentos del registro (doble gasto, fallas bizantinas, hash, firmas, árboles de Merkle, UTXO frente a cuentas y tipos de DLT); el consenso como problema económico (consenso clásico y de Nakamoto, prueba de trabajo y de participación, familias BFT, trilema, canales y rollups, MEV); la criptoeconomía (diseño de mecanismos, comisiones y EIP-1559, política monetaria en el protocolo, oráculos y staking líquido); los tokens (taxonomía, stablecoins, activos tokenizados, emisión y distribución, valoración, creadores de mercado automáticos y crédito en cadena); la gobernanza (dentro y fuera de cadena, bifurcaciones, The DAO, DAOs y delegación); derecho y política pública (MiCA, el enfoque de Estados Unidos, GAFI, el marco colombiano y las monedas digitales de banco central); y aplicaciones y crítica (identidad autosoberana, trazabilidad, huella energética y cómo medir la descentralización).",
+   "enlaces": [
+    {
+     "titulo": "Sitio del curso",
+     "url": "https://criptoeconomia-dlt.vercel.app/"
+    }
    ]
   },
   {
@@ -1662,7 +1688,8 @@
    ],
    "grupos": [
     "trayectoria-infraestructura-ti"
-   ]
+   ],
+   "descripcion": "Fundamentos de los sistemas distribuidos y cómo usarlos para construir sistemas escalables e intensivos en datos, teniendo en cuenta atributos de calidad como escalabilidad, disponibilidad, seguridad y tolerancia a fallas.\n\nEl curso tiene tres unidades. La primera cubre los fundamentos: arquitecturas cliente/servidor y P2P, monolitos frente a servicios y microservicios, middleware, comunicación entre procesos y concurrencia, almacenamiento distribuido (consistencia, replicación, sistemas de archivos y bases de datos distribuidas) y despliegue on-premise frente a la nube con virtualización, contenedores y serverless. La segunda trata sistemas y aplicaciones escalables: alta disponibilidad, rendimiento y seguridad con sus tácticas, patrones de arquitectura y el paso de una aplicación a producción. La tercera es de ingeniería de datos y big data: ciclo de vida de los datos, Hadoop y HDFS, MapReduce, Spark, almacenamiento en la nube (S3, Cloud Storage), bases de datos SQL frente a NoSQL y Hive/Sqoop. Las prácticas se hacen en AWS Academy."
   },
   {
    "id": "SI3016",
@@ -1683,7 +1710,8 @@
    ],
    "grupos": [
     "trayectoria-infraestructura-ti"
-   ]
+   ],
+   "descripcion": "Conceptos, principios y tecnologías de la computación en la nube, combinando teoría y práctica para diseñar, desplegar y administrar soluciones en la nube según las necesidades de una organización.\n\nLa primera unidad cubre qué es la nube, sus características y beneficios, los modelos de servicio (IaaS, PaaS, SaaS, XaaS) y de despliegue (privada, comunitaria, pública e híbrida), sus riesgos y retos, la elasticidad, la virtualización, los contenedores con Docker y los clusters de servidores. La segunda se enfoca en la gestión de recursos: cómputo, almacenamiento, redes, seguridad, bases de datos, monitoreo, balanceo de carga, autoescalado y Kubernetes. La tercera trata los servicios de plataforma y el desarrollo de aplicaciones en la nube: modelos de programación y estilos y patrones arquitectónicos."
   },
   {
    "id": "SI4001",
@@ -1704,7 +1732,8 @@
    ],
    "grupos": [
     "trayectoria-infraestructura-ti"
-   ]
+   ],
+   "descripcion": "Cómo diseñar sistemas que crecen sin perder rendimiento ni estabilidad, con un proyecto integrador que se desarrolla a lo largo del curso.\n\nEmpieza con los principios y arquitecturas para la escalabilidad: escalado vertical frente a horizontal, elasticidad y disponibilidad. Luego pasa a la escalabilidad de datos: particionamiento y sharding, replicación síncrona y asíncrona, CAP y PACELC, bases NoSQL (clave-valor, documentos, columnares y de grafos), NewSQL y patrones como CQRS y Event Sourcing. Después cubre operación, rendimiento y resiliencia: caching distribuido, observabilidad (métricas, logs, trazas, SLIs, SLOs y SLAs), pruebas de carga y estrés, patrones como Circuit Breaker, Bulkhead y Retry, Chaos Engineering y autoescalado. Cierra con optimización avanzada: profiling, eliminación de cuellos de botella y el balance entre costo y rendimiento."
   },
   {
    "id": "SI4003",
@@ -1725,7 +1754,8 @@
    ],
    "grupos": [
     "trayectoria-infraestructura-ti"
-   ]
+   ],
+   "descripcion": "Proyecto final de la trayectoria, que integra lo visto en Sistemas Distribuidos, Computación en Nube y Aplicaciones y Sistemas Escalables. En equipos, se concibe, diseña, implementa, opera y evalúa una infraestructura distribuida y escalable para un problema organizacional realista, cuidando disponibilidad, escalabilidad, rendimiento, resiliencia, seguridad, observabilidad, automatización, recuperación ante desastres y costos.\n\nMás que un proveedor de nube o una tecnología específica, el énfasis está en las decisiones de arquitectura y sus trade-offs. El curso sigue tres fases: entender y diseñar (requisitos, escenarios medibles, alternativas de arquitectura y registros de decisiones), construir y operar (infraestructura como código, pipelines de CI/CD, redes, gestión de identidades y secretos, observabilidad con métricas, logs, trazas y SLOs) y evaluar y defender (pruebas de carga, experimentos de fallas controladas, respaldo y recuperación, un game day operacional y la defensa técnica de la solución)."
   },
   {
    "id": "SI3008",
@@ -1746,7 +1776,8 @@
    ],
    "grupos": [
     "trayectoria-ingenieria-de-datos"
-   ]
+   ],
+   "descripcion": "Cómo se diseñan, procesan y operan los sistemas que manejan grandes volúmenes de datos.\n\nLa primera unidad cubre los fundamentos y el almacenamiento: características y retos de estos sistemas, en qué se diferencian de las bases de datos tradicionales, patrones de arquitectura, modelos de almacenamiento, almacenamiento distribuido, replicación, particionamiento (sharding), consistencia, escalabilidad y tolerancia a fallos. La segunda trata el procesamiento distribuido: modelos y frameworks de cómputo distribuido, optimización y paralelización, procesamiento batch y en streaming, arquitecturas Lambda y Kappa, procesamiento de eventos y analítica en tiempo real. La tercera se enfoca en el despliegue y la operación: ciclo de vida, automatización de infraestructura y pipelines, DataOps, MLOps, AIOps, observabilidad y monitoreo."
   },
   {
    "id": "SI3009",
@@ -1788,6 +1819,13 @@
    ],
    "grupos": [
     "trayectoria-ingenieria-de-datos"
+   ],
+   "descripcion": "Cómo gestionar y gobernar los datos como un activo de la organización, más allá de la parte técnica.\n\nEl curso tiene cuatro módulos. El primero ve el dato como activo: por qué fracasan las iniciativas de datos, estrategia y valoración del dato, modelo operativo, priorización y deuda de datos. El segundo trata cómo se arma un programa de gobernanza con marcos como DAMA-DMBOK, ISO/IEC 38505 y COBIT, políticas que realmente se cumplan, calidad y contratos de datos, y metadatos, linaje y catálogo. El tercero cubre riesgo, seguridad y cumplimiento: clasificación y control de acceso, NIST CSF 2.0 e ISO 27001, riesgo cuantitativo con FAIR, privacidad, la Ley 1581 y la respuesta a incidentes. El cuarto trata el gobierno de la IA: NIST AI RMF, ISO/IEC 42001 y el EU AI Act, datos para IA (RAG, datos sintéticos, agentes) y la auditoría de sesgos en decisiones algorítmicas. Incluye simuladores y talleres prácticos.",
+   "enlaces": [
+    {
+     "titulo": "Sitio del curso",
+     "url": "https://gobernanzadatos.vercel.app"
+    }
    ]
   },
   {
@@ -1840,7 +1878,8 @@
    ],
    "grupos": [
     "trayectoria-desarrollo-de-software"
-   ]
+   ],
+   "descripcion": "Las técnicas actuales para crear aplicaciones web. Empieza con SSR: sus fundamentos y cuándo conviene usarlo y cuándo no. Luego pasa a CSR: sus novedades, ventajas y desventajas, y los frameworks más conocidos y cómo funcionan. También se aprende a construir monolitos y aplicaciones con arquitectura frontend-backend, y al final se ven los frameworks híbridos y las posibilidades que dan a la hora de elegir una tecnología, otra o varias a la vez.\n\nEl curso se trabaja con tutoriales y un proyecto que se va desarrollando a la par, para aplicar los conceptos mientras se ven. Hace mucho énfasis en la organización del código y las buenas prácticas de clean code, para construir aplicaciones mantenibles y escalables."
   },
   {
    "id": "SI3013",
@@ -1861,7 +1900,8 @@
    ],
    "grupos": [
     "trayectoria-desarrollo-de-software"
-   ]
+   ],
+   "descripcion": "Los fundamentos y la importancia de las pruebas: qué se prueba, cómo, cuándo y toda la planeación que esto implica. También qué es la calidad del software y cómo determinar si un software la tiene. La idea clave: la mejor forma de aumentar la confianza en que un software va a funcionar en el mundo real es ponerlo a prueba.\n\nDespués se profundiza en los tipos de pruebas y el alcance de cada una: pruebas estáticas con herramientas como los linters, pruebas unitarias sobre funciones individuales, pruebas de integración que verifican cómo interactúan las partes del sistema y pruebas end-to-end, que evalúan el sistema desde la perspectiva del usuario final. También se ven metodologías como TDD (Test-Driven Development) y técnicas para aislar y simular componentes durante las pruebas, como dummies y fakes."
   },
   {
    "id": "SI4004",
@@ -1929,6 +1969,13 @@
    ],
    "grupos": [
     "trayectoria-inteligencia-artificial"
+   ],
+   "descripcion": "Los fundamentos y los modelos principales del deep learning, trabajados en PyTorch.\n\nSon cuatro módulos. El primero cubre los fundamentos: qué es el deep learning, tensores y operaciones básicas, el álgebra lineal que hay detrás, la neurona artificial y el perceptrón, funciones de activación (ReLU, Sigmoid, Tanh, Softmax) y de pérdida, organización de los datos en entrenamiento, validación y prueba con Dataset y DataLoader, y optimización con descenso del gradiente, SGD y Adam, hasta un primer modelo de regresión. El segundo trata los modelos convolucionales (CNN, autoencoders y U-Net) y cómo entrenarlos bien: optimizadores, overfitting y underfitting, hiperparámetros, grid search frente a random search, early stopping y PCA frente a autoencoders. El tercero cubre modelos generativos y de atención: VAE, GANs y cGANs, por qué surge la atención frente a las RNN, self-attention, una visión general de los transformers y la arquitectura encoder-decoder, con casos de uso en texto, imágenes y señales y sus costos computacionales. El cuarto se enfoca en modelos secuenciales: RNN, desvanecimiento y explosión del gradiente, LSTM, GRU, pronóstico de series de tiempo y fundamentos de procesamiento de lenguaje natural. Se trabaja con laboratorios y un proyecto final en grupo.",
+   "enlaces": [
+    {
+     "titulo": "Repositorio del curso",
+     "url": "https://github.com/jdmartinev/SI3014---Redes-Neuronales-y-Aprendizaje-Profundo/blob/main/README.md"
+    }
    ]
   },
   {
@@ -1950,7 +1997,8 @@
    ],
    "grupos": [
     "trayectoria-inteligencia-artificial"
-   ]
+   ],
+   "descripcion": "Fundamentos y aplicaciones del aprendizaje automático: qué es, en qué se diferencia de programar un sistema con reglas y sus tres grandes enfoques (aprendizaje supervisado, no supervisado y por refuerzo), con ejemplos como motores de búsqueda, detección de spam y fraude, sistemas de recomendación o vehículos autónomos.\n\nCubre un conjunto amplio de algoritmos, explica con matemáticas por qué funcionan (máxima verosimilitud, generalización, regularización) y enseña a implementarlos desde cero. Los temas principales son: fundamentos del aprendizaje supervisado (regresión, clasificación, sobreajuste, regularización, modelos generativos frente a discriminativos), aprendizaje no supervisado (clustering y reducción de dimensionalidad), aprendizaje supervisado avanzado (máquinas de soporte vectorial, métodos de kernel, árboles de decisión y boosting) y la aplicación práctica del ML (análisis de errores y curvas de aprendizaje). Se trabaja en Python con numpy, pandas y scikit-learn sobre notebooks de Jupyter, e incluye un proyecto en grupo."
   },
   {
    "id": "SI4006",
@@ -1971,7 +2019,8 @@
    ],
    "grupos": [
     "trayectoria-inteligencia-artificial"
-   ]
+   ],
+   "descripcion": "Cómo diseñar, evaluar y desplegar sistemas modernos de IA generativa. Todo el semestre gira alrededor de un solo proyecto en equipo, en un dominio real y con datos reales, al que cada módulo le agrega una capa.\n\nSon cinco módulos: cómo funcionan los transformers por dentro y fine-tuning con Hugging Face; cómo evaluar sistemas generativos con rigor; retrieval, RAG y agentes con uso de herramientas, evaluados con RAGAS; visión y multimodalidad (ViT, CLIP, modelos multimodales y de difusión); y eficiencia y despliegue (destilación, cuantización, serving y MLOps), hasta dejar una demo pública desplegada y monitoreada. Se trabaja con PyTorch, Hugging Face y Colab."
   },
   {
    "id": "SI5001",

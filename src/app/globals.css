@@ -360,3 +360,20 @@ main { min-height: calc(100vh - 160px); }
 .brand-text b { white-space: nowrap; }
 @media (max-width: 400px) { .brand-text b { font-size: 13px; } .nav a { font-size: 13px; padding: 6px; } }
 .cal-ev.largo { opacity: 0.85; }
+
+/* ---------- descripciones y trayectorias ---------- */
+.desc-par { margin: 0 0 10px; font-size: 14px; line-height: 1.6; color: var(--ink); }
+.enlaces { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
+.grupo-desc { margin: 0; padding: 10px 14px 4px; font-size: 13px; line-height: 1.55; color: var(--muted); }
+.has-desc { font-style: normal; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: #5c6a0a; background: #eef2c9; border-radius: 999px; padding: 1px 7px; margin-left: 6px; white-space: nowrap; }
+.tray-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; align-items: start; }
+.tray { background: var(--card); border: 1px solid var(--line); border-top: 4px solid #8d9a12; border-radius: 12px; padding: 16px; }
+.tray h4 { margin: 0 0 6px; color: var(--navy); font-size: 16px; }
+.tray-desc { margin: 0 0 10px; font-size: 13px; line-height: 1.55; color: var(--muted); }
+.tray ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.tray li button { width: 100%; display: flex; align-items: baseline; gap: 8px; text-align: left; background: none; border: 0; padding: 7px 8px; border-radius: 8px; font-size: 13px; }
+.tray li button:hover { background: var(--bg); }
+.tray li code { color: var(--muted); flex: none; }
+.tray li span { flex: 1; }
+@media (max-width: 640px) { .tray-grid { grid-template-columns: 1fr; } }
+.row-desc { flex-basis: 100%; padding: 7px 10px; border: 1px solid var(--line); border-radius: 8px; font-size: 13px; resize: vertical; }

@@ -812,7 +812,8 @@
      }
     ]
    ],
-   "grupos": []
+   "grupos": [],
+   "descripcion": "Este curso se dicta junto con SI3007 Sistemas Distribuidos del pénsum 20251. Cubre los fundamentos de los sistemas distribuidos y cómo usarlos para construir sistemas escalables e intensivos en datos, teniendo en cuenta atributos de calidad como escalabilidad, disponibilidad, seguridad y tolerancia a fallas.\n\nTiene tres unidades. La primera cubre los fundamentos: arquitecturas cliente/servidor y P2P, monolitos frente a servicios y microservicios, middleware, comunicación entre procesos y concurrencia, almacenamiento distribuido (consistencia, replicación, sistemas de archivos y bases de datos distribuidas) y despliegue on-premise frente a la nube con virtualización, contenedores y serverless. La segunda trata sistemas y aplicaciones escalables: alta disponibilidad, rendimiento y seguridad con sus tácticas, patrones de arquitectura y el paso de una aplicación a producción. La tercera es de ingeniería de datos y big data: ciclo de vida de los datos, Hadoop y HDFS, MapReduce, Spark, almacenamiento en la nube (S3, Cloud Storage), bases de datos SQL frente a NoSQL y Hive/Sqoop. Las prácticas se hacen en AWS Academy."
   },
   {
    "id": "TA4003",

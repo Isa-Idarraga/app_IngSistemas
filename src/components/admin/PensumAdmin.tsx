@@ -354,6 +354,62 @@ function CursoForm({
       </fieldset>
 
       <label className="field">
+        <span>Descripción de contenidos (deja una línea en blanco entre párrafos)</span>
+        <textarea
+          rows={6}
+          placeholder="De qué se trata la materia, qué temas se ven…"
+          value={c.descripcion ?? ""}
+          onChange={(e) => onChange({ descripcion: e.target.value || undefined })}
+        />
+      </label>
+
+      <fieldset className="box">
+        <legend>Enlaces (sitio del curso, material…)</legend>
+        {(c.enlaces ?? []).map((en, i) => (
+          <div key={i} className="req-row" style={{ marginBottom: 6 }}>
+            <input
+              style={{ flex: "none", width: 170 }}
+              placeholder="Título"
+              value={en.titulo}
+              onChange={(e) => {
+                const n = [...(c.enlaces ?? [])];
+                n[i] = { ...n[i], titulo: e.target.value };
+                onChange({ enlaces: n });
+              }}
+            />
+            <input
+              type="url"
+              placeholder="https://…"
+              value={en.url}
+              onChange={(e) => {
+                const n = [...(c.enlaces ?? [])];
+                n[i] = { ...n[i], url: e.target.value.trim() };
+                onChange({ enlaces: n });
+              }}
+            />
+            <button
+              type="button"
+              className="icon-btn"
+              aria-label="Quitar enlace"
+              onClick={() => {
+                const n = (c.enlaces ?? []).filter((_, j) => j !== i);
+                onChange({ enlaces: n.length ? n : undefined });
+              }}
+            >
+              ×
+            </button>
+          </div>
+        ))}
+        <button
+          type="button"
+          className="link"
+          onClick={() => onChange({ enlaces: [...(c.enlaces ?? []), { titulo: "Sitio del curso", url: "" }] })}
+        >
+          + Agregar enlace
+        </button>
+      </fieldset>
+
+      <label className="field">
         <span>Nota (se muestra al abrir la materia)</span>
         <textarea rows={2} value={c.nota ?? ""} onChange={(e) => onChange({ nota: e.target.value || undefined })} />
       </label>
@@ -596,6 +652,13 @@ function GruposEditor({ p, actualizar }: { p: Pensum; actualizar: (fn: (p: Pensu
             ) : (
               <button className="btn btn-sm btn-ghost-danger" onClick={() => setBorrar(g.id)}>Eliminar</button>
             )}
+            <textarea
+              className="row-desc"
+              rows={2}
+              placeholder="Descripción del grupo (opcional, se muestra en el catálogo)"
+              value={g.descripcion ?? ""}
+              onChange={(e) => editar(g.id, { descripcion: e.target.value || undefined })}
+            />
           </div>
         ))}
       </div>
