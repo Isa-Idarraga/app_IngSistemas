@@ -22,6 +22,7 @@ export default async function Home() {
         <div className="hero-actions">
           <Link className="btn btn-primary" href="/calendario">Ver calendario</Link>
           <Link className="btn" href="/pensum">Explorar pénsum</Link>
+          <Link className="btn" href="/arma-tu-pensum">Arma tu pénsum</Link>
         </div>
       </section>
 

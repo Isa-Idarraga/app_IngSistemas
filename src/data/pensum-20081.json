@@ -69,33 +69,8 @@
    "seccion": "nfi"
   },
   {
-   "id": "sistemas-de-informacion",
-   "nombre": "Sistemas de Información",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "teleinformatica",
-   "nombre": "Teleinformática",
-   "seccion": "enfasis"
-  },
-  {
    "id": "gerencia-de-proyectos",
    "nombre": "Gerencia de Proyectos",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "infraestr-tecnol-informac-ti",
-   "nombre": "Infraestr Tecnol Informac (TI)",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "ciencias-de-los-datos",
-   "nombre": "Ciencias de los Datos",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "desarrollo-de-software",
-   "nombre": "Desarrollo de Software",
    "seccion": "enfasis"
   },
   {
@@ -105,27 +80,7 @@
   },
   {
    "id": "dise-integrado-sistemas-tecnic",
-   "nombre": "Dise integrado sistemas técnic",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "desarrollo-de-software-tr",
-   "nombre": "Desarrollo De Software - Tr",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "desarrollo-de-software-15",
-   "nombre": "Desarrollo de Software",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "inteligencia-artificial",
-   "nombre": "Inteligencia artificial",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "sistemas-de-informacion-tr",
-   "nombre": "Sistemas De Información -Tr",
+   "nombre": "Diseño Integrado de Sistemas Técnicos",
    "seccion": "enfasis"
   },
   {
@@ -1534,8 +1489,7 @@
     ]
    ],
    "grupos": [
-    "complementarias",
-    "inteligencia-artificial"
+    "complementarias"
    ]
   },
   {
@@ -1898,286 +1852,6 @@
    ]
   },
   {
-   "id": "ST1178",
-   "codigo": "ST1178",
-   "nombre": "Estrategia",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "sistemas-de-informacion",
-    "sistemas-de-informacion-tr"
-   ]
-  },
-  {
-   "id": "ST1197",
-   "codigo": "ST1197",
-   "nombre": "Políticas y Estrategias de Tecnologías de Información",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "sistemas-de-informacion",
-    "sistemas-de-informacion-tr"
-   ]
-  },
-  {
-   "id": "ST1276",
-   "codigo": "ST1276",
-   "nombre": "Finanzas",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "OG0276",
-      "nombre": "Ingeniería Económica"
-     }
-    ]
-   ],
-   "grupos": [
-    "sistemas-de-informacion",
-    "sistemas-de-informacion-tr"
-   ]
-  },
-  {
-   "id": "ST1311",
-   "codigo": "ST1311",
-   "nombre": "Mercadeo",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "ST0252",
-      "nombre": "Sistemas de Información"
-     }
-    ]
-   ],
-   "grupos": [
-    "sistemas-de-informacion",
-    "sistemas-de-informacion-tr"
-   ]
-  },
-  {
-   "id": "ST1354",
-   "codigo": "ST1354",
-   "nombre": "Apoyo de Ti a Procesos de Negocios",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "sistemas-de-informacion",
-    "sistemas-de-informacion-tr"
-   ]
-  },
-  {
-   "id": "ST1319",
-   "codigo": "ST1319",
-   "nombre": "Arquitectura de Ti",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "teleinformatica"
-   ]
-  },
-  {
-   "id": "ST1440",
-   "codigo": "ST1440",
-   "nombre": "Redes Lans",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "teleinformatica"
-   ]
-  },
-  {
-   "id": "ST1443",
-   "codigo": "ST1443",
-   "nombre": "Redes Wans",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "teleinformatica"
-   ]
-  },
-  {
-   "id": "ST1447",
-   "codigo": "ST1447",
-   "nombre": "Redes Tcp / Ip",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "ST0255",
-      "nombre": "Telemática"
-     }
-    ]
-   ],
-   "grupos": [
-    "teleinformatica"
-   ]
-  },
-  {
-   "id": "ST1627",
-   "codigo": "ST1627",
-   "nombre": "Pensamiento Arquitectónico para Soluciones de Ti - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "infraestr-tecnol-informac-ti"
-   ]
-  },
-  {
-   "id": "ST1628",
-   "codigo": "ST1628",
-   "nombre": "Redes para Sistemas de Alto Desempeño - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "infraestr-tecnol-informac-ti"
-   ]
-  },
-  {
-   "id": "ST1629",
-   "codigo": "ST1629",
-   "nombre": "Computación en Nube - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "infraestr-tecnol-informac-ti"
-   ]
-  },
-  {
-   "id": "ST1630",
-   "codigo": "ST1630",
-   "nombre": "Sistemas Intensivos en Datos - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "infraestr-tecnol-informac-ti"
-   ]
-  },
-  {
    "id": "ST1631",
    "codigo": "ST1631",
    "nombre": "Aprendizaje de Máquina Aplicado - Electiva",
@@ -2206,12 +1880,7 @@
     ]
    ],
    "grupos": [
-    "infraestr-tecnol-informac-ti",
-    "ciencias-de-los-datos",
-    "desarrollo-de-software",
     "sistemas-de-informacion-2020-2",
-    "desarrollo-de-software-tr",
-    "sistemas-de-informacion-tr",
     "desarrollo-de-software-2020-2"
    ]
   },
@@ -2237,12 +1906,7 @@
     ]
    ],
    "grupos": [
-    "infraestr-tecnol-informac-ti",
-    "ciencias-de-los-datos",
-    "desarrollo-de-software",
     "sistemas-de-informacion-2020-2",
-    "desarrollo-de-software-tr",
-    "sistemas-de-informacion-tr",
     "desarrollo-de-software-2020-2"
    ]
   },
@@ -2268,287 +1932,8 @@
     ]
    ],
    "grupos": [
-    "infraestr-tecnol-informac-ti",
-    "ciencias-de-los-datos",
-    "desarrollo-de-software",
     "sistemas-de-informacion-2020-2",
-    "desarrollo-de-software-tr",
-    "sistemas-de-informacion-tr",
     "desarrollo-de-software-2020-2"
-   ]
-  },
-  {
-   "id": "CM0936",
-   "codigo": "CM0936",
-   "nombre": "Álgebra en Ciencias de los Datos",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "basicas",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0232",
-      "nombre": "Cálculo III"
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0234",
-      "nombre": "Álgebra Lineal"
-     }
-    ]
-   ],
-   "grupos": [
-    "ciencias-de-los-datos"
-   ]
-  },
-  {
-   "id": "EC1800",
-   "codigo": "EC1800",
-   "nombre": "Estadística en Analítica",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "otra",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0232",
-      "nombre": "Cálculo III"
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0234",
-      "nombre": "Álgebra Lineal"
-     },
-     {
-      "tipo": "pre",
-      "codigo": "EC0255",
-      "nombre": "Economía General"
-     }
-    ]
-   ],
-   "grupos": [
-    "ciencias-de-los-datos"
-   ]
-  },
-  {
-   "id": "ST0815",
-   "codigo": "ST0815",
-   "nombre": "Proyecto Especial de 1 Crédito",
-   "creditos": 1,
-   "umes": 1,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "ciencias-de-los-datos",
-    "desarrollo-de-software-tr",
-    "sistemas-de-informacion-tr"
-   ]
-  },
-  {
-   "id": "ST0816",
-   "codigo": "ST0816",
-   "nombre": "Proyecto Especial de 2 Créditos (Énfasis)",
-   "creditos": 2,
-   "umes": 2,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "ciencias-de-los-datos",
-    "desarrollo-de-software-tr",
-    "sistemas-de-informacion-tr"
-   ]
-  },
-  {
-   "id": "ST1801",
-   "codigo": "ST1801",
-   "nombre": "Almacenamiento y Recuperación de la Información",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0232",
-      "nombre": "Cálculo III"
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0234",
-      "nombre": "Álgebra Lineal"
-     },
-     {
-      "tipo": "pre",
-      "codigo": "EC0255",
-      "nombre": "Economía General"
-     }
-    ]
-   ],
-   "grupos": [
-    "ciencias-de-los-datos"
-   ]
-  },
-  {
-   "id": "ST1804",
-   "codigo": "ST1804",
-   "nombre": "Fundamentos de Ciencias de los Datos",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0234",
-      "nombre": "Álgebra Lineal"
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0244",
-      "nombre": "Estadística General"
-     }
-    ]
-   ],
-   "grupos": [
-    "ciencias-de-los-datos"
-   ]
-  },
-  {
-   "id": "SI5002",
-   "codigo": "SI5002",
-   "nombre": "Procesos Modernos de Desarrollo de Software",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "PT0131",
-      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software"
-   ]
-  },
-  {
-   "id": "SI5003",
-   "codigo": "SI5003",
-   "nombre": "Arquitecturas Avanzadas de Software",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "PT0131",
-      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software"
-   ]
-  },
-  {
-   "id": "SI5004",
-   "codigo": "SI5004",
-   "nombre": "Desarrollo de Sistemas Seguros",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "PT0131",
-      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software"
-   ]
-  },
-  {
-   "id": "SI5005",
-   "codigo": "SI5005",
-   "nombre": "Integración y Entrega Continua de Software",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "PT0131",
-      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software"
    ]
   },
   {
@@ -2568,8 +1953,7 @@
     ]
    ],
    "grupos": [
-    "sistemas-de-informacion-2020-2",
-    "sistemas-de-informacion-tr"
+    "sistemas-de-informacion-2020-2"
    ]
   },
   {
@@ -2589,8 +1973,7 @@
     ]
    ],
    "grupos": [
-    "sistemas-de-informacion-2020-2",
-    "sistemas-de-informacion-tr"
+    "sistemas-de-informacion-2020-2"
    ]
   },
   {
@@ -2610,8 +1993,7 @@
     ]
    ],
    "grupos": [
-    "sistemas-de-informacion-2020-2",
-    "sistemas-de-informacion-tr"
+    "sistemas-de-informacion-2020-2"
    ]
   },
   {
@@ -2631,8 +2013,7 @@
     ]
    ],
    "grupos": [
-    "sistemas-de-informacion-2020-2",
-    "sistemas-de-informacion-tr"
+    "sistemas-de-informacion-2020-2"
    ]
   },
   {
@@ -2716,110 +2097,6 @@
    ]
   },
   {
-   "id": "ST1110",
-   "codigo": "ST1110",
-   "nombre": "Métricas de Software",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "PT0131",
-      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma) Reforma)"
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software-tr",
-    "desarrollo-de-software-15"
-   ]
-  },
-  {
-   "id": "ST1165",
-   "codigo": "ST1165",
-   "nombre": "Ingeniería de Requisitos",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "ST0251",
-      "nombre": "Proyecto Integrador 1"
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software-tr",
-    "desarrollo-de-software-15"
-   ]
-  },
-  {
-   "id": "ST1328",
-   "codigo": "ST1328",
-   "nombre": "Ingeniería del Proceso Software",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "PT0131",
-      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software-tr",
-    "desarrollo-de-software-15"
-   ]
-  },
-  {
-   "id": "ST1331",
-   "codigo": "ST1331",
-   "nombre": "Desarrollo de Software Basado en Componentes",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "PT0131",
-      "nombre": "Período de Práctica (Ingeniería de Sistemas Reforma)"
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software-tr",
-    "desarrollo-de-software-15"
-   ]
-  },
-  {
    "id": "ST1623",
    "codigo": "ST1623",
    "nombre": "Procesos Modernos de Desarrollo de Software - Obligatoria",
@@ -2841,7 +2118,6 @@
     ]
    ],
    "grupos": [
-    "desarrollo-de-software-tr",
     "desarrollo-de-software-2020-2"
    ]
   },
@@ -2867,7 +2143,6 @@
     ]
    ],
    "grupos": [
-    "desarrollo-de-software-tr",
     "desarrollo-de-software-2020-2"
    ]
   },
@@ -2893,7 +2168,6 @@
     ]
    ],
    "grupos": [
-    "desarrollo-de-software-tr",
     "desarrollo-de-software-2020-2"
    ]
   },
@@ -2919,73 +2193,7 @@
     ]
    ],
    "grupos": [
-    "desarrollo-de-software-tr",
     "desarrollo-de-software-2020-2"
-   ]
-  },
-  {
-   "id": "CM0091",
-   "codigo": "CM0091",
-   "nombre": "Inteligencia Artificial",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "basicas",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "inteligencia-artificial"
-   ]
-  },
-  {
-   "id": "CM0441",
-   "codigo": "CM0441",
-   "nombre": "Práctica Investigativa 2",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "basicas",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     }
-    ]
-   ],
-   "grupos": [
-    "inteligencia-artificial"
-   ]
-  },
-  {
-   "id": "ST0292",
-   "codigo": "ST0292",
-   "nombre": "Técnicas de Aprendizaje Estadístico",
-   "creditos": 3,
-   "umes": 4,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 116
-     },
-     {
-      "tipo": "pre",
-      "codigo": "CM0244",
-      "nombre": "Estadística General"
-     }
-    ]
-   ],
-   "grupos": [
-    "inteligencia-artificial"
    ]
   },
   {
@@ -3129,18 +2337,9 @@
    "requisitos": [],
    "grupos": [],
    "opciones": [
-    "sistemas-de-informacion",
-    "teleinformatica",
     "gerencia-de-proyectos",
-    "infraestr-tecnol-informac-ti",
-    "ciencias-de-los-datos",
-    "desarrollo-de-software",
     "sistemas-de-informacion-2020-2",
     "dise-integrado-sistemas-tecnic",
-    "desarrollo-de-software-tr",
-    "desarrollo-de-software-15",
-    "inteligencia-artificial",
-    "sistemas-de-informacion-tr",
     "desarrollo-de-software-2020-2",
     "ciencias-de-los-datos-19"
    ],

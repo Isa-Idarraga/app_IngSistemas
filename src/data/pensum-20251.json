@@ -270,22 +270,12 @@
   },
   {
    "id": "gestion-tecnol-de-informacion",
-   "nombre": "Gestión Tecnol de Información",
+   "nombre": "Gestión de Tecnologías de Información",
    "seccion": "enfasis"
   },
   {
    "id": "dise-integrado-sistemas-tecnic",
-   "nombre": "Dise Integrado Sistemas Técnic",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "infraestr-tecnol-informac-ti",
-   "nombre": "Infraestr Tecnol Informac (TI)",
-   "seccion": "enfasis"
-  },
-  {
-   "id": "desarrollo-de-software",
-   "nombre": "Desarrollo de Software",
+   "nombre": "Diseño Integrado de Sistemas Técnicos",
    "seccion": "enfasis"
   },
   {
@@ -4350,86 +4340,6 @@
    ]
   },
   {
-   "id": "ST1627",
-   "codigo": "ST1627",
-   "nombre": "Pensamiento Arquitectónico para Soluciones de Ti - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 118
-     }
-    ]
-   ],
-   "grupos": [
-    "infraestr-tecnol-informac-ti"
-   ]
-  },
-  {
-   "id": "ST1628",
-   "codigo": "ST1628",
-   "nombre": "Redes para Sistemas de Alto Desempeño - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 118
-     }
-    ]
-   ],
-   "grupos": [
-    "infraestr-tecnol-informac-ti"
-   ]
-  },
-  {
-   "id": "ST1629",
-   "codigo": "ST1629",
-   "nombre": "Computación en Nube - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 118
-     }
-    ]
-   ],
-   "grupos": [
-    "infraestr-tecnol-informac-ti"
-   ]
-  },
-  {
-   "id": "ST1630",
-   "codigo": "ST1630",
-   "nombre": "Sistemas Intensivos en Datos - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 118
-     }
-    ]
-   ],
-   "grupos": [
-    "infraestr-tecnol-informac-ti"
-   ]
-  },
-  {
    "id": "ST1631",
    "codigo": "ST1631",
    "nombre": "Aprendizaje de Máquina Aplicado - Electiva",
@@ -4458,8 +4368,6 @@
     ]
    ],
    "grupos": [
-    "infraestr-tecnol-informac-ti",
-    "desarrollo-de-software",
     "desarrollo-de-software-51"
    ]
   },
@@ -4485,8 +4393,6 @@
     ]
    ],
    "grupos": [
-    "infraestr-tecnol-informac-ti",
-    "desarrollo-de-software",
     "desarrollo-de-software-51"
    ]
   },
@@ -4512,89 +4418,7 @@
     ]
    ],
    "grupos": [
-    "infraestr-tecnol-informac-ti",
-    "desarrollo-de-software",
     "desarrollo-de-software-51"
-   ]
-  },
-  {
-   "id": "ST1623",
-   "codigo": "ST1623",
-   "nombre": "Procesos Modernos de Desarrollo de Software - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 118
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software"
-   ]
-  },
-  {
-   "id": "ST1624",
-   "codigo": "ST1624",
-   "nombre": "Integración y Entrega Continua de Software -Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 118
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software"
-   ]
-  },
-  {
-   "id": "ST1625",
-   "codigo": "ST1625",
-   "nombre": "Arquitecturas Avanzadas de Software - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 118
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software"
-   ]
-  },
-  {
-   "id": "ST1626",
-   "codigo": "ST1626",
-   "nombre": "Desarrollo de Sistemas Seguros - Obligatoria",
-   "creditos": 2,
-   "umes": 3,
-   "semestre": null,
-   "area": "profesional",
-   "requisitos": [
-    [
-     {
-      "tipo": "creditos",
-      "valor": 118
-     }
-    ]
-   ],
-   "grupos": [
-    "desarrollo-de-software"
    ]
   },
   {
@@ -5445,8 +5269,6 @@
    "opciones": [
     "gestion-tecnol-de-informacion",
     "dise-integrado-sistemas-tecnic",
-    "infraestr-tecnol-informac-ti",
-    "desarrollo-de-software",
     "gerencia-de-proyectos",
     "ciencias-de-los-datos",
     "desarrollo-de-software-51"
