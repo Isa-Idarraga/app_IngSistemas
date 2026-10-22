@@ -22,12 +22,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="topbar">
           <div className="topbar-in">
             <Link href="/" className="brand">
-              <span className="brand-mark" aria-hidden>
-                <span style={{ background: "#1aa6c6" }} />
-                <span style={{ background: "#d8392f" }} />
-                <span style={{ background: "#8d9a12" }} />
-                <span style={{ background: "#f5a25d" }} />
-              </span>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/logo-repres.png" alt="Logo de los representantes estudiantiles" className="brand-logo" width={26} height={34} />
               <span className="brand-text">
                 <b>Ingeniería de Sistemas</b>
                 <small>Universidad EAFIT</small>
