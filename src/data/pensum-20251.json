@@ -76,7 +76,8 @@
   {
    "id": "trayectoria-sistemas-de-informacion",
    "nombre": "Trayectoria Sistemas de Información",
-   "seccion": "obligatorios"
+   "seccion": "obligatorios",
+   "descripcion": "Para quienes quieren gestionar y liderar la tecnología en las organizaciones, alineándola con los objetivos del negocio, combinando habilidades técnicas con liderazgo y pensamiento estratégico. Cubre la automatización de procesos de negocio, la gestión y el gobierno de TI (con marcos como ITIL y COBIT), la inteligencia de negocio para tomar decisiones con datos y un proyecto final donde se gestiona un proyecto de TI de principio a fin."
   },
   {
    "id": "trayectoria-economia",
@@ -2022,7 +2023,8 @@
    ],
    "grupos": [
     "trayectoria-sistemas-de-informacion"
-   ]
+   ],
+   "descripcion": "Cómo usar los sistemas de información para automatizar los procesos de negocio de una organización. Arranca con los fundamentos de los sistemas de información y la automatización de procesos, las herramientas y tecnologías para automatizar, y el mapeo y análisis de procesos.\n\nLuego pasa al diseño de soluciones de automatización (requerimientos funcionales y no funcionales, selección de herramientas según el tipo de proceso, arquitectura de la solución, diseño de flujos de trabajo y orquestación de tareas, prototipado y pruebas iniciales) y a su implementación (planificación del proyecto, metodologías ágiles y tradicionales, integración con los sistemas existentes, gestión del cambio, capacitación de usuarios y mitigación de riesgos en la puesta en marcha). Cierra con casos prácticos en banca y finanzas, salud, manufactura y universidades, y un taller para implementar un flujo simple con una herramienta tecnológica."
   },
   {
    "id": "SI3018",
@@ -2043,7 +2045,8 @@
    ],
    "grupos": [
     "trayectoria-sistemas-de-informacion"
-   ]
+   ],
+   "descripcion": "Cómo se gestionan los sistemas y las tecnologías de información en una organización, combinando lo técnico con el liderazgo y la visión de negocio.\n\nTiene cuatro unidades. La primera cubre los fundamentos y el marco estratégico: la evolución de la gestión de servicios de TI, la relación entre TI, la estrategia del negocio y la transformación digital, los retos en la prestación de servicios y cómo adoptar el cambio tecnológico. La segunda trata la gobernanza, el control de cambios y el cumplimiento: principios de gobernanza y alineación estratégica, políticas de adquisiciones, evaluación, negociación y gestión de contratos de TI, control de cambios, aseguramiento de calidad y gestión de riesgos. La tercera cubre los marcos de referencia y la mejora continua: ITIL, COBIT y otros marcos, procesos de gestión de servicios, indicadores de desempeño, auditoría y automatización en la entrega de servicios. La cuarta es de gestión de talento y liderazgo: reclutamiento, capacitación y retención de talento en TI, equipos de alto desempeño, evaluación de desempeño, liderazgo en la transformación digital y cultura de innovación y colaboración."
   },
   {
    "id": "SI4007",
@@ -2069,7 +2072,8 @@
    ],
    "grupos": [
     "trayectoria-sistemas-de-informacion"
-   ]
+   ],
+   "descripcion": "Cómo convertir datos en información para tomar decisiones de negocio.\n\nCubre los fundamentos de la inteligencia de negocio (cómo transformar problemas de negocio en problemas de datos, enfoques de procesamiento, fuentes de datos y calidad de la información); el modelado y análisis de datos para la toma de decisiones (análisis descriptivo, predictivo y prescriptivo, herramientas como Power BI y Tableau, y diseño de modelos de datos y KPIs para la gestión empresarial); la visualización de datos (buenas prácticas, estándares e informes interactivos); y casos de uso en sectores como finanzas, retail, manufactura y salud, evaluando estrategias basadas en datos para optimizar procesos de negocio."
   },
   {
    "id": "SI4008",
@@ -2090,7 +2094,8 @@
    ],
    "grupos": [
     "trayectoria-sistemas-de-informacion"
-   ]
+   ],
+   "descripcion": "Proyecto final (capstone) de la trayectoria, donde se gestiona un proyecto de TI de principio a fin.\n\nCubre la gestión y planificación (repaso del ciclo de vida de los proyectos de TI y de las metodologías ágil, tradicional e híbrida; definición de alcance, objetivos y entregables); la estimación de tiempos, esfuerzo y costos (PERT, CPM, puntos de historia de usuario, puntos de función y herramientas de planificación y seguimiento); el monitoreo, la evaluación y el cierre (indicadores de éxito, gestión de riesgos, evaluación de resultados y lecciones aprendidas); y la ejecución, las pruebas y la entrega (implementación progresiva y despliegue, pruebas funcionales y de rendimiento, gestión de cambios, control de calidad, documentación técnica y manuales de usuario)."
   },
   {
    "id": "MF2001",
